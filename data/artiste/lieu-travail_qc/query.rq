@@ -1,0 +1,58 @@
+# artiste, lieux de travail situé au Québec, occupations
+# occupations vide = artiste visuel
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+SELECT DISTINCT
+  ?artiste
+  ?nom
+  (GROUP_CONCAT(DISTINCT ?lieu_travailLabel; separator=", ") AS ?lieux)
+  (GROUP_CONCAT(DISTINCT ?occupationLabel; separator=", ") AS ?occupations)
+
+WHERE {
+
+  # lieu de travail (P937)
+  ?artiste wdt:P937 ?lieu_travail .
+
+  # lieu de travail situé au Québec, récursif incluant lien direct (0 occurence)
+  ?lieu_travail wdt:P131* wd:Q176 .
+
+  # occupation (P106)
+  ?artiste wdt:P106 ?occupation .
+
+  # sous-classe de (P279) artiste visuel, récursif incluant lien direct (0 occurence)
+  ?occupation wdt:P279* wd:Q3391743 .
+
+  # valeurs à exclure
+  # manuel car 1) courte liste
+  # manuel car 2) couteuse traversée des hiérarchies
+  FILTER (?occupation NOT IN (
+    wd:Q266569,
+    wd:Q1734662,
+    wd:Q2079935,
+    wd:Q1414443,
+    wd:Q222344,
+    wd:Q7628798,
+    wd:Q157798,
+    wd:Q21292974,
+    wd:Q22812942,
+    wd:Q18545066,
+    wd:Q7042855,
+    wd:Q957729,
+    wd:Q2526255,
+    wd:Q1235146,
+    wd:Q2707485
+  ))
+
+  # nécessaire d’expliciter: variables ne sont pas reconnues
+  # comme variables de sortie à résoudre à l’intérieur du regroupement
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en,fr".
+    ?artiste rdfs:label ?nom .
+    ?occupation rdfs:label ?occupations .
+    ?lieu_travail rdfs:label ?lieux .
+  }
+}
+
+GROUP BY ?artiste ?nom
+ORDER BY ?lieux
