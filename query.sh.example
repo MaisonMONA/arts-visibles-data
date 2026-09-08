@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+QUERY_FILE="data/artiste/lieu-travail_qc/query_optimized_enhanced.rq"
+
+WDQS="https://query.wikidata.org/sparql"
+
+CSV_OUTPUT="results.csv"
+JSON_OUTPUT="results.json"
+
+curl \
+  --request POST \
+  --header "User-Agent: MONA/Arts visibles Project (info@monamontreal.org)" \
+  --header "Accept: text/csv" \
+  --header "Content-Type: application/sparql-query" \
+  --data-binary @${QUERY_FILE} \
+  --output "${CSV_OUTPUT}" \
+  "${WDQS}"
+
+curl \
+  --request POST \
+  --header "User-Agent: MONA/Arts visibles Project (info@monamontreal.org)" \
+  --header "Accept: application/sparql-results+json" \
+  --header "Content-Type: application/sparql-query" \
+  --data-binary @${QUERY_FILE} \
+  --output "${JSON_OUTPUT}" \
+  "${WDQS}"
