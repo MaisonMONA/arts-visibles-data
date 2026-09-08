@@ -1,0 +1,8 @@
+# les fichiers commençant par _ sont ignorés
+_*
+
+# le script à modifier est ignoré (voir query.sh.example)
+query.sh
+
+# les résultats sont ignorés à la racine du dépôt
+/results*

@@ -1,0 +1,9 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT DISTINCT ?lieu_résidence
+WHERE {
+  # lieu de résidence (P551)
+  ?x wdt:P551 ?lieu_résidence .
+  # lieu de résidence situé au Québec
+  # incluant le lien direct (n = 0)
+  ?lieu_résidence wdt:P131* wd:Q176 .
+}

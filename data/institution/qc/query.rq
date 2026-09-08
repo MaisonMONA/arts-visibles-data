@@ -1,0 +1,41 @@
+#defaultView:Map
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+SELECT DISTINCT
+  ?institution
+  ?label
+  ?forme_juridique
+  ?lieu
+  ?coord
+
+WHERE {
+
+  # wd:Q2668072 à traiter séparément
+  VALUES ?classe_institution { wd:Q15206795 wd:Q16020664 wd:Q4034417 wd:Q16038801 wd:Q1007870 wd:Q33506 wd:Q207694 wd:Q17431399 wd:Q2087181 wd:Q1798450 wd:Q1156831 wd:Q829080 wd:Q6815100 wd:Q713223 wd:Q7075 wd:Q166118 wd:Q2072285 wd:Q1792630 wd:Q3280353 wd:Q2085381 wd:Q1329623 wd:Q7315155 }
+
+  ?institution wdt:P31 ?classe_institution .
+
+  ?institution wdt:P131 ?l .
+  # lieu situé au Québec, récursif incluant lien direct (0 occurence)
+  ?l wdt:P131* wd:Q176 .
+  hint:Prior hint:gearing "forward".
+
+  OPTIONAL {
+    ?institution wdt:P625 ?coord .
+  }
+
+  OPTIONAL {
+    ?institution wdt:P1454 ?forme .
+    ?forme rdfs:label ?forme_juridique .
+    FILTER( LANG(?forme_juridique)="fr" )
+  }
+
+  # optimisation
+  ?institution rdfs:label ?label .
+  FILTER( LANG(?label)="fr" )
+
+  ?l rdfs:label ?lieu .
+  FILTER( LANG(?lieu)="fr" )
+
+}

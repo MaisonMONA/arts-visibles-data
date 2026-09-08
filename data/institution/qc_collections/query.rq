@@ -1,0 +1,42 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+SELECT DISTINCT
+  ?institution
+  ?institution_label
+  ?lieu_label
+  ?coord
+
+WHERE {
+
+  # n = 500000+
+  # VALUES ?collection { wd:Q2668072 }
+
+  ?institution wdt:P31 wd:Q2668072 .
+
+  ?institution wdt:P131 ?lieu .
+  # lieu situé au Québec, récursif incluant lien direct (0 occurence)
+  ?lieu wdt:P131* wd:Q176 .
+  hint:Prior hint:gearing "forward".
+
+  OPTIONAL {
+    ?institution wdt:P625 ?coord .
+  }
+
+  # optimisation
+  ?institution rdfs:label ?institution_label .
+  FILTER( LANG(?institution_label)="fr" )
+
+  ?lieu rdfs:label ?lieu_label .
+  FILTER( LANG(?lieu_label)="fr" )
+
+  # nécessaire d’expliciter: variables ne sont pas reconnues
+  # comme variables de sortie à résoudre à l’intérieur du regroupement
+  # SERVICE wikibase:label {
+  #   bd:serviceParam wikibase:language "fr,en".
+  #   ?institution rdfs:label ?appelation .
+  #   # ?lieu rdfs:label ?lieuLabel .
+  # }
+}
+
+# GROUP BY ?institution ?appelation
+# ORDER BY ?lieu
