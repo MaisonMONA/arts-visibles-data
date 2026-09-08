@@ -1,0 +1,30 @@
+# sous-classes artistes visuels sans label
+# valeurs injectées dans les requêtes subséquentes à des fin d’optimisation 
+#
+# explications conceptuelles pour cette requete :
+# voir artiste-visuel_sous-classe_label
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT DISTINCT ?sous_classes
+WHERE {
+  ?artiste wdt:P937 / wdt:P131* wd:Q176 .
+  ?artiste wdt:P106 ?sous_classes .
+  ?sous_classes wdt:P279* wd:Q3391743 .
+  FILTER (?sous_classes NOT IN (
+    wd:Q266569,
+    wd:Q1734662,
+    wd:Q2079935,
+    wd:Q1414443,
+    wd:Q222344,
+    wd:Q7628798,
+    wd:Q157798,
+    wd:Q21292974,
+    wd:Q22812942,
+    wd:Q18545066,
+    wd:Q7042855,
+    wd:Q957729,
+    wd:Q2526255,
+    wd:Q1235146,
+    wd:Q2707485
+  ))
+}

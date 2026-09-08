@@ -1,0 +1,77 @@
+# artiste, lieux de travail situé au Québec, occupations
+# occupations vide = artiste visuel
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+SELECT DISTINCT
+  ?artiste
+  ?artisteLabel
+  (GROUP_CONCAT(DISTINCT ?lieu_travailLabel; separator=", ") AS ?lieuxTravail)
+  (GROUP_CONCAT(DISTINCT ?sous_classesLabel; separator=", ") AS ?occupations)
+
+WHERE {
+
+  # lieu de travail (P937)
+  ?artiste wdt:P937 ?lieu_travail .
+
+  # lieu de travail situé au Québec
+  ?lieu_travail wdt:P131* wd:Q176 .
+
+  { # occupation (P106)
+    ?artiste wdt:P106 wd:Q3391743 # artiste visuel ou artiste visuelle
+  } UNION {
+    ?artiste wdt:P106 ?sous_classes .
+
+    # sous-classe de (P279) répétable
+    # remarque: le cas 0 occurence est couvert par la première branche
+    ?sous_classes wdt:P279+ wd:Q3391743 .
+
+    # valeurs à exclure
+    # manuel car 1) courte liste
+    # manuel car 2) couteuse traversée des hiérarchies
+    FILTER (?sous_classes NOT IN (
+      wd:Q266569,
+      wd:Q1734662,
+      wd:Q2079935,
+      wd:Q1414443,
+      wd:Q222344,
+      wd:Q7628798,
+      wd:Q157798,
+      wd:Q21292974,
+      wd:Q22812942,
+      wd:Q18545066,
+      wd:Q7042855,
+      wd:Q957729,
+      wd:Q2526255,
+      wd:Q1235146,
+      wd:Q2707485
+    ))
+  } UNION {
+
+    ?artiste wdt:P106 ?sous_classes .
+
+    # valeurs à inclure
+    # qui ne sont pas des sous-classes de artiste visuel
+    # !!! ATTENTION !!!
+    #   ne sont pas des profession ou occupation
+    #   donc exclus par l’usage de P937
+    #   donc binding de cette branche → n = 0
+    #   il faut utiliser genre artistique, mais ne s’applique pas aux personnes 
+    FILTER (?sous_classes IN (
+      wd:Q10988986, # arts textiles
+      wd:Q2561815 # Bioart
+    ))
+  }
+
+  # nécessaire d’expliciter: variables ne sont pas reconnues
+  # comme variables de sortie à résoudre à l’intérieur du regroupement
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en,fr".
+    ?artiste rdfs:label ?artisteLabel .
+    ?sous_classes rdfs:label ?sous_classesLabel .
+    ?lieu_travail rdfs:label ?lieu_travailLabel .
+  }
+}
+
+GROUP BY ?artiste ?artisteLabel
+ORDER BY ?lieuxTravail # sans label first
