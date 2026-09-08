@@ -1,0 +1,8 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT DISTINCT ?lieu_travail
+WHERE {
+  # lieu de travail (P937)
+  ?x wdt:P937 ?lieu_travail .
+  # lieu de travail situé au Québec
+  ?lieu_travail wdt:P131* wd:Q176 .
+}
