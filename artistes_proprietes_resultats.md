@@ -28,3 +28,4 @@ P485	#	archives conservées par
 P9493	#	dossier d'artiste détenu par 
 P767	#	collaborateur au travail de création 
 P1343	#	décrit par la source 
+P18     #   image
