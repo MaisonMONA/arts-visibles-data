@@ -2,10 +2,9 @@
 
 → fr si disponible, ensuite en, sinon ce qui existe :) 
 
+QID, libellé, description
 
-libellé
-description
-
+```sparql
 P551	#	lieu de résidence 
 P937	#	lieu de travail 
 P569	#	lieu de naissance 
@@ -29,3 +28,4 @@ P9493	#	dossier d'artiste détenu par
 P767	#	collaborateur au travail de création 
 P1343	#	décrit par la source 
 P18     #   image
+```

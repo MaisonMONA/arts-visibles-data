@@ -3,9 +3,9 @@
 → fr si disponible, ensuite en, sinon ce qui existe :) 
 
 
-libellé
-description
+QID, libellé, description
 
+```sparql
 P571	#	date de fondation ou de création 
 P1454	#	forme juridique 
 P463	#	membre de 
@@ -20,3 +20,4 @@ P625	#	coordonnées géographiques
 P856	#	site officiel 
 P18	    #	image 
 P154	#	image du logotype 
+```

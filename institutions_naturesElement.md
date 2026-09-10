@@ -5,6 +5,7 @@ Liste des natures de l'éléments qu'on veut inclure dans la recherche
 Pour les musées, on se demande si on ajoute aussi les sous-classes de musées → peux-tu nous les lister svp? 
 
 
+```sparql
 organisme lié à l'art 	#	Q20897549	
 salle d'expositions 	#	Q15206795	
 centre d'artistes autogéré 	#	Q4034417	
@@ -18,3 +19,4 @@ fondation d'art 	#	Q1792630
 maisons de la culture de Montréal 	#	Q3280353	
 centre culturel 	#	Q1329623	
 organisation avec des membres 	#	Q6815100	
+```
