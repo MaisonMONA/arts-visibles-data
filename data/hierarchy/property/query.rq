@@ -1,0 +1,22 @@
+# sous-propriétés de ?super_prop
+
+PREFIX wd:  <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT DISTINCT ?sous_prop ?sous_propLabel
+WHERE {
+
+  #################################################
+  # À juster
+  #################################################
+  VALUES ?super_propriete {
+    wd:P... # ajuster ici le PID de la super-propriété
+  }
+
+  ?sous_propriete wdt:P1647+ ?super_propriete .
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "fr,en,*".
+  }
+}
+ORDER BY ?sous_propLabel

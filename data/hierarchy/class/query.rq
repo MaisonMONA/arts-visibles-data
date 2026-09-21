@@ -1,0 +1,24 @@
+# sous-classes de ?super_classe
+# exemple avec combinaison utilisant chaîne de propriété
+# dans data/artiste/lieu-travail_qc/query.rq
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT DISTINCT ?sous_classe ?sous_classeLabel
+WHERE {
+
+  #################################################
+  # À ajuster
+  #################################################
+  VALUES ?super_classe {
+    wd:Q36649 # ajuster ici le qid de la superclasse
+  }
+
+  ?sous_classe wdt:P279+ ?super_classe .
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "fr,en,*".
+  }
+}
+ORDER BY ?sous_classeLabel
