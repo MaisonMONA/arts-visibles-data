@@ -6,3 +6,6 @@ query.sh
 
 # les résultats sont ignorés à la racine du dépôt
 /results*
+
+*.csv
+*.json

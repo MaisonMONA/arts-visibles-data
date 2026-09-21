@@ -4,28 +4,31 @@
 
 QID, libellé, description
 
+Trois requêtes avec les mêmes champs pour récupérer séparément 551, 937, 569
+
 ```sparql
-P551	#	lieu de résidence 
-P937	#	lieu de travail 
-P569	#	lieu de naissance 
-P21	    #	sexe ou genre 
-P569	#	date de naissance 
-P106	#	occupation 
-P7763	#	statut des droits d'auteur du créateur ou de la créatrice 
-P856	#	site officiel 
-P742	#	pseudonyme 
-P172	#	groupe ethnique 
-P1412	#	langue parlée, écrite ou signée 
-P136	#	genre artistique 
-P101	#	domaine d'activité 
-P1875	#	représenté par 
-P463	#	membre de 
-P1344	#	participant à 
-P166	#	distinction reçue 
-P6379	#	collection possédant une œuvre de la personne 
-P485	#	archives conservées par 
-P9493	#	dossier d'artiste détenu par 
-P767	#	collaborateur au travail de création 
-P1343	#	décrit par la source 
-P18     #   image
+wdt:P551	#	lieu de résidence
+wdt:P937	#	lieu de travail
+wdt:P569	#	lieu de naissance
+
+wdt:P21	    #	sexe ou genre 
+wdt:P569	#	date de naissance 
+wdt:P106	#	occupation 
+wdt:P7763	#	statut des droits d'auteur du créateur ou de la créatrice 
+wdt:P856	#	site officiel 
+wdt:P742	#	pseudonyme 
+wdt:P172	#	groupe ethnique 
+wdt:P1412	#	langue parlée, écrite ou signée 
+wdt:P136	#	genre artistique 
+wdt:P101	#	domaine d'activité 
+wdt:P1875	#	représenté par 
+wdt:P463	#	membre de 
+wdt:P1344	#	participant à 
+wdt:P166	#	distinction reçue 
+wdt:P6379	#	collection possédant une œuvre de la personne 
+wdt:P485	#	archives conservées par 
+wdt:P9493	#	dossier d'artiste détenu par 
+wdt:P767	#	collaborateur au travail de création 
+wdt:P1343	#	décrit par la source 
+wdt:P18     #   image
 ```

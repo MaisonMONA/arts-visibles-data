@@ -26,7 +26,8 @@ $ ./query.sh
 
 - à discuter :
   - les fichiers de résultats ne sont pas commités pour l’instant, car ils vont créer d’énormes diff; les requêtes peuvent être exécutées avec `./query.sh`
-  - partager une archive versionnée et structurée par un système d’association requête → résultats
+  - ~~partager une archive versionnée et structurée par un système d’association requête → résultats~~
+  - le mieux est d’exécuter les requêtes à l’aide des scritps bash
 - `SERVICE wikibase:label` ralentit substantiellement le calcul; la plupart du temps, il vaut mieux passer directement par `rdfs:label`; mais attention au fallback
 
 ## Recommandations
