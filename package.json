@@ -1,0 +1,18 @@
+{
+  "name": "arts-visibles-data",
+  "version": "0.1.0-alpha.1",
+  "description": "Manipulations des données extraites pour arts visibles",
+  "homepage": "https://github.com/MaisonMONA/arts-visibles-data#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaisonMONA/arts-visibles-data.git"
+  },
+  "license": "MIT",
+  "author": "Maison MONA",
+  "type": "module",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  }
+}

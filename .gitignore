@@ -9,3 +9,5 @@ query.sh
 
 *.csv
 *.json
+
+!package.json
