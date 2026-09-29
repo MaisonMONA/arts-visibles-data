@@ -309,7 +309,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "artisanat,"
+        "value" : ",artisanat"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -357,7 +357,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -591,7 +591,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "arts visuels,"
+        "value" : ",arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -603,7 +603,7 @@
       },
       "site_officiel" : {
         "type" : "literal",
-        "value" : ",http://www.denisefilion.com"
+        "value" : "http://www.denisefilion.com,"
       },
       "represente_par" : {
         "type" : "literal",
@@ -1437,7 +1437,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",sculpture,fab lab,musique,performance,arts visuels"
+        "value" : ",musique,sculpture,fab lab,performance,arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -1465,7 +1465,7 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : ",mention,bursary"
+        "value" : ",bursary,mention"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
@@ -1613,7 +1613,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "photographe,artiste peintre"
+        "value" : "artiste peintre,photographe"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -1625,7 +1625,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",ethnographie,exploration,photographic documentation,aménagement forestier,littérature,peinture"
+        "value" : ",exploration,ethnographie,photographic documentation,aménagement forestier,peinture,littérature"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -1907,7 +1907,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "conte,"
+        "value" : ",conte"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -1955,7 +1955,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -2127,7 +2127,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Banque d'art du Conseil des arts du Canada,,Musée des beaux-arts de Sherbrooke,Galerie de l'UQAM,Musée national des beaux-arts du Québec"
+        "value" : ",Musée des beaux-arts de Sherbrooke,Banque d'art du Conseil des arts du Canada,Galerie de l'UQAM,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -2151,7 +2151,7 @@
       },
       "groupe_ethnique" : {
         "type" : "literal",
-        "value" : ",québécois"
+        "value" : "québécois,"
       },
       "langue" : {
         "type" : "literal",
@@ -2315,7 +2315,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,"
+        "value" : ",MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -2331,7 +2331,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -2409,7 +2409,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Musée d'art de Joliette,Musée des beaux arts de Winnipeg,Musée des beaux-arts de Montréal,,musée canadien de la guerre,Musée des beaux-arts du Canada,Musée de la civilisation,Musée national des beaux-arts du Québec,Art Gallery of Hamilton"
+        "value" : "Musée des beaux arts de Winnipeg,Musée d'art de Joliette,Art Gallery of Hamilton,,musée canadien de la guerre,Musée des beaux-arts de Montréal,Musée des beaux-arts du Canada,Musée de la civilisation,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -3367,7 +3367,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,"
+        "value" : ",MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -3383,7 +3383,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -3461,7 +3461,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,"
+        "value" : ",MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -3489,7 +3489,7 @@
       },
       "langue" : {
         "type" : "literal",
-        "value" : ",français"
+        "value" : "français,"
       },
       "decrit_par_source" : {
         "type" : "literal",
@@ -3645,11 +3645,11 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : ",prix du Gouverneur général en arts visuels et en arts médiatiques"
+        "value" : "prix du Gouverneur général en arts visuels et en arts médiatiques,"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Banque d'art du Conseil des arts du Canada,,Musée des beaux-arts du Canada,Vtape,Musée national des beaux-arts du Québec"
+        "value" : ",Banque d'art du Conseil des arts du Canada,Vtape,Musée des beaux-arts du Canada,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -3711,7 +3711,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "photographie,"
+        "value" : ",photographie"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -3759,7 +3759,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -4181,7 +4181,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",tailleur ou tailleuse de pierre,sculpture sur bois,arts visuels,sculpture"
+        "value" : ",tailleur ou tailleuse de pierre,sculpture sur bois,sculpture,arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -4201,7 +4201,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : "Conseil de la culture de l'Abitibi-Témiscamingue,"
+        "value" : ",Conseil de la culture de l'Abitibi-Témiscamingue"
       },
       "participant_a" : {
         "type" : "literal",
@@ -4229,7 +4229,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -4765,7 +4765,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : "Conseil de la culture de l'Abitibi-Témiscamingue,"
+        "value" : ",Conseil de la culture de l'Abitibi-Témiscamingue"
       },
       "participant_a" : {
         "type" : "literal",
@@ -4793,7 +4793,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -4827,7 +4827,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "céramiste,artiste visuel ou artiste visuelle"
+        "value" : "artiste visuel ou artiste visuelle,céramiste"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -4929,7 +4929,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : ",art public,art contemporain"
+        "value" : ",art contemporain,art public"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -5023,7 +5023,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : "art figuratif,,art public"
+        "value" : ",art public,art figuratif"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -5075,7 +5075,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -5084,6 +5084,100 @@
       "groupe_ethnique" : {
         "type" : "literal",
         "value" : ""
+      },
+      "langue" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "decrit_par_source" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "image" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "artiste" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124846279"
+      },
+      "nom" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Zema"
+      },
+      "occupations" : {
+        "type" : "literal",
+        "value" : "tatoueur ou tatoueuse,graffeur,artiste peintre"
+      },
+      "lieu_travail" : {
+        "type" : "literal",
+        "value" : "Laval,Montréal"
+      },
+      "genre_artistique" : {
+        "type" : "literal",
+        "value" : ",art public"
+      },
+      "domaine_activite" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "pseudonyme" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "statut_droits_auteur" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "site_officiel" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "represente_par" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "membre_de" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "participant_a" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "distinction_recue" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "collection_possedant_oeuvre" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "archives_conservees_par" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "dossier_artiste_detenu_par" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "collaborateur_creation" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "sexe_genre" : {
+        "type" : "literal",
+        "value" : "féminin,"
+      },
+      "date_naissance" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "groupe_ethnique" : {
+        "type" : "literal",
+        "value" : ",Québécois"
       },
       "langue" : {
         "type" : "literal",
@@ -5423,7 +5517,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : "Conseil de la culture de l'Abitibi-Témiscamingue,,L'Artouche"
+        "value" : ",Conseil de la culture de l'Abitibi-Témiscamingue,L'Artouche"
       },
       "participant_a" : {
         "type" : "literal",
@@ -5451,7 +5545,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -5497,7 +5591,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "arts du cirque,"
+        "value" : ",arts du cirque"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -5545,7 +5639,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -5717,7 +5811,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,musée Beaulne,MA musée d'art,"
+        "value" : "Loto-Québec,musée Beaulne,,MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -6069,7 +6163,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "œuvre sous droits d'auteurs,"
+        "value" : ",œuvre sous droits d'auteurs"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -6109,7 +6203,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -6341,7 +6435,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "jeu de société,,arts visuels"
+        "value" : ",jeu de société,arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -6401,7 +6495,7 @@
       },
       "langue" : {
         "type" : "literal",
-        "value" : ",français"
+        "value" : "français,"
       },
       "decrit_par_source" : {
         "type" : "literal",
@@ -6434,7 +6528,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "graphique,jeu de société,,graphisme,arts visuels"
+        "value" : ",jeu de société,graphisme,graphique,arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -6494,7 +6588,7 @@
       },
       "langue" : {
         "type" : "literal",
-        "value" : ",français,anglais"
+        "value" : "français,,anglais"
       },
       "decrit_par_source" : {
         "type" : "literal",
@@ -6535,7 +6629,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "droits d'auteurs ne pouvant plus être enfreints,"
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -6575,7 +6669,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -6621,7 +6715,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "graphique,illustration,,arts visuels"
+        "value" : ",illustration,graphique,arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -6669,7 +6763,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -6747,7 +6841,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Smithsonian American Art Museum,"
+        "value" : ",Smithsonian American Art Museum"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -6763,7 +6857,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -6809,7 +6903,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",peinture à l'huile,art,arts visuels,peinture"
+        "value" : ",peinture à l'huile,art,peinture,arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -6841,7 +6935,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Smithsonian Institution,,National Portrait Gallery"
+        "value" : ",Smithsonian Institution,National Portrait Gallery"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -6857,7 +6951,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -6891,7 +6985,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "sculpteur ou sculptrice,céramiste,artiste visuel ou artiste visuelle,artiste peintre"
+        "value" : "sculpteur ou sculptrice,artiste visuel ou artiste visuelle,céramiste,artiste peintre"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -6903,7 +6997,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",peinture,sculpture"
+        "value" : ",sculpture,peinture"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -6911,7 +7005,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "œuvre sous droits d'auteurs,"
+        "value" : ",œuvre sous droits d'auteurs"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -6951,7 +7045,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -6997,7 +7091,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "video game design,,jeu vidéo,photographie"
+        "value" : ",jeu vidéo,photographie,video game design"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -7045,7 +7139,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -7267,7 +7361,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "dessinateur ou dessinatrice de bande dessinée,caricaturiste"
+        "value" : "caricaturiste,dessinateur ou dessinatrice de bande dessinée"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -7643,7 +7737,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "artiste visuel ou artiste visuelle,artiste multimédia"
+        "value" : "artiste multimédia,artiste visuel ou artiste visuelle"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -7749,7 +7843,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "littérature d'enfance,video game design,illustration,,jeu vidéo"
+        "value" : ",illustration,littérature d'enfance,jeu vidéo,video game design"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -7797,7 +7891,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -7831,7 +7925,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "dessinateur ou dessinatrice de bande dessinée,illustrateur ou illustratrice"
+        "value" : "illustrateur ou illustratrice,dessinateur ou dessinatrice de bande dessinée"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -7933,7 +8027,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : "hyperréalisme,réalisme,,art public,graffiti"
+        "value" : "réalisme,,hyperréalisme,art public,graffiti"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -8027,7 +8121,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : "art figuratif,,art public"
+        "value" : ",art public,art figuratif"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -8079,7 +8173,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -8157,7 +8251,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : ",Centre des arts de la confédération,Musée national des beaux-arts du Québec,Art Gallery of Hamilton"
+        "value" : ",Art Gallery of Hamilton,Centre des arts de la confédération,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -8309,11 +8403,11 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : "danse de société,,danse latine,danse contemporaine,danse traditionnelle"
+        "value" : ",danse de société,danse contemporaine,danse traditionnelle,danse latine"
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",film,danse,traduction"
+        "value" : ",traduction,film,danse"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -8333,7 +8427,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",La danse sur les routes du Québec,Regroupement québécois de la danse,CAPACOA"
+        "value" : "Regroupement québécois de la danse,La danse sur les routes du Québec,,CAPACOA"
       },
       "participant_a" : {
         "type" : "literal",
@@ -8395,7 +8489,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "artiste de performance,sculpteur ou sculptrice,artiste visuel ou artiste visuelle,artiste peintre"
+        "value" : "sculpteur ou sculptrice,artiste de performance,artiste visuel ou artiste visuelle,artiste peintre"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -8435,11 +8529,11 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : ",prix Paul-Émile-Borduas,compagnon de l'Ordre des arts et des lettres du Québec,grand officier ou grande officière de l'Ordre national du Québec,chevalier de l'ordre national du Cèdre"
+        "value" : ",prix Paul-Émile-Borduas,grand officier ou grande officière de l'Ordre national du Québec,chevalier de l'ordre national du Cèdre,compagnon de l'Ordre des arts et des lettres du Québec"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Robert McLaughlin Gallery,musée Laurier,Musée du Bas-Saint-Laurent,Galerie Leonard & Bina Ellen,The Carleton University Art Gallery,Galerie Montcalm,Museum London,Musée d'art de Joliette,musée de Lachine,Musée des beaux-arts de Sherbrooke,musée de Rimouski,Musée des beaux-arts de Montréal,,Musée des beaux-arts de la Nouvelle-Écosse,Musée des beaux-arts du Canada,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal,Agnes Etherington Art Centre,Musée des beaux-arts de l'Ontario"
+        "value" : "Musée du Bas-Saint-Laurent,Galerie Leonard & Bina Ellen,The Carleton University Art Gallery,Galerie Montcalm,musée Laurier,Musée d'art de Joliette,musée de Lachine,Musée des beaux-arts de Sherbrooke,musée de Rimouski,Robert McLaughlin Gallery,,Agnes Etherington Art Centre,Musée des beaux-arts de la Nouvelle-Écosse,Museum London,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée des beaux-arts de Montréal,Musée des beaux-arts du Canada,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec,Musée des beaux-arts de l'Ontario"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -8525,7 +8619,7 @@
       },
       "participant_a" : {
         "type" : "literal",
-        "value" : ",Francophone Artists Reimagine Adornment,Espace habité,Frames & Focus,#Tarot,Sieraden – Makers & Dragers,KORU 6"
+        "value" : "Francophone Artists Reimagine Adornment,Espace habité,,Frames & Focus,#Tarot,Sieraden – Makers & Dragers,KORU 6"
       },
       "distinction_recue" : {
         "type" : "literal",
@@ -8533,7 +8627,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Museum of Arts and Design,University of Iowa Stanley Museum of Art,,musée des arts décoratifs de Montréal,Musée des beaux-arts de Montréal,Musée national des beaux-arts du Québec,http://www.wikidata.org/entity/Q110800236"
+        "value" : ",Museum of Arts and Design,University of Iowa Stanley Museum of Art,musée des arts décoratifs de Montréal,Musée des beaux-arts de Montréal,Musée national des beaux-arts du Québec,http://www.wikidata.org/entity/Q110800236"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -8709,11 +8803,11 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",La danse sur les routes du Québec,Regroupement québécois de la danse,Centre de ressources et transition pour danseurs,CAPACOA"
+        "value" : "Regroupement québécois de la danse,La danse sur les routes du Québec,,Centre de ressources et transition pour danseurs,CAPACOA"
       },
       "participant_a" : {
         "type" : "literal",
-        "value" : "Tabakalera,"
+        "value" : ",Tabakalera"
       },
       "distinction_recue" : {
         "type" : "literal",
@@ -8831,7 +8925,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -8839,7 +8933,7 @@
       },
       "groupe_ethnique" : {
         "type" : "literal",
-        "value" : "Serbes,"
+        "value" : ",Serbes"
       },
       "langue" : {
         "type" : "literal",
@@ -8865,7 +8959,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "illustrateur ou illustratrice,créateur ou créatrice de bandes dessinées,artiste graphique"
+        "value" : "créateur ou créatrice de bandes dessinées,illustrateur ou illustratrice,artiste graphique"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -8971,7 +9065,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "littérature d'enfance et de jeunesse,illustration de livre,,bande dessinée"
+        "value" : "littérature d'enfance et de jeunesse,,bande dessinée,illustration de livre"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -9073,7 +9167,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "droits d'auteurs ne pouvant plus être enfreints,"
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -9113,7 +9207,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -9253,7 +9347,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "diffusion,création planifiée,"
+        "value" : ",diffusion,création planifiée"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -9273,7 +9367,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Regroupement québécois de la danse"
+        "value" : "Regroupement québécois de la danse,"
       },
       "participant_a" : {
         "type" : "literal",
@@ -9535,7 +9629,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "activité littéraire,,art,arts visuels,peinture,prose"
+        "value" : ",activité littéraire,prose,art,peinture,arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -9563,7 +9657,7 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : ",prix littéraires du Gouverneur général,prix du Gouverneur général : romans et nouvelles de langue française"
+        "value" : "prix littéraires du Gouverneur général,,prix du Gouverneur général : romans et nouvelles de langue française"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
@@ -9751,7 +9845,7 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : "officier ou officière de l'Ordre national du Québec,membre de l'Ordre du Canada,prix Paul-Émile-Borduas,,docteur honoris causa de l'Université Laval"
+        "value" : "prix Paul-Émile-Borduas,,officier ou officière de l'Ordre national du Québec,membre de l'Ordre du Canada,docteur honoris causa de l'Université Laval"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
@@ -9817,7 +9911,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "activité littéraire,sciences de l'information,,electronic dance music,bande dessinée,musique électronique,critique littéraire"
+        "value" : "activité littéraire,,sciences de l'information,bande dessinée,electronic dance music,musique électronique,critique littéraire"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -9943,7 +10037,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Banque d'art du Conseil des arts du Canada,Loto-Québec,Galerie Leonard & Bina Ellen,musée de Rimouski,,Musée des beaux-arts du Canada,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : "Galerie Leonard & Bina Ellen,Loto-Québec,musée de Rimouski,,Banque d'art du Conseil des arts du Canada,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée des beaux-arts du Canada,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -9951,7 +10045,7 @@
       },
       "dossier_artiste_detenu_par" : {
         "type" : "literal",
-        "value" : ",Université du Québec à Montréal,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : ",Université du Québec à Montréal,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "collaborateur_creation" : {
         "type" : "literal",
@@ -10013,7 +10107,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "œuvre sous droits d'auteurs,"
+        "value" : ",œuvre sous droits d'auteurs"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -10053,7 +10147,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -10319,7 +10413,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "musée J. Paul Getty,,musée d'art de São Paulo,Musée d'Art de Dallas,palais des Beaux-Arts de Lille,musée Boucher-de-Perthes,musée Lambinet,Schorr Collection,Fogg Art Museum,musée de Sens,musée de l’Histoire de France,musée des Beaux-Arts de Béziers,musée départemental d'Art ancien et contemporain,musées d'art de Harvard,Bowes Museum,Collection de peintures de l'État de Bavière,musée des Beaux-Arts de Bernay,Arkhangelskoye Estate Museum,musée des Beaux-Arts de Tours,musée des Beaux-Arts de Rennes,musée Von-der-Heydt,Nationalmuseum,musée Städel,musée des Arts décoratifs,musée des Beaux-Arts et d'Archéologie de Besançon,Wallace Collection,musée Czartoryski,musée de l'Ermitage,Glasgow Museums Resource Centre,musée d'Art du comté de Los Angeles,musée Réattu,Minneapolis Institute of Art,Kunsthalle de Hambourg,musée national de Cracovie,Clark Art Institute,musée Fabre,musée des Beaux-Arts de Strasbourg,musée des Beaux-Arts de Houston,musée national des Beaux-Arts Buenos Aires,Galerie nationale d'art de Lviv,musées royaux des Beaux-Arts de Belgique,musée des Beaux-Arts de Nancy,château de Versailles,musée des Beaux-Arts de Caen,musée des Beaux-Arts de Lyon,Memorial Art Gallery,Führermuseum,Philadelphia Museum of Art,musée Rodin,Galerie nationale d'Irlande,Art Gallery of Greater Victoria,musée d'art de Portland,École nationale supérieure des beaux-arts,National Gallery of Art,Kunsthalle de Brême"
+        "value" : "musées d'art de Harvard,musée des Beaux-Arts de Tours,palais des Beaux-Arts de Lille,musée des Beaux-Arts de Rennes,Schorr Collection,musée Boucher-de-Perthes,musée Lambinet,musée de Sens,musée de l’Histoire de France,musée des Beaux-Arts de Béziers,musée départemental d'Art ancien et contemporain,,Art Gallery of Greater Victoria,musée d'art de São Paulo,Arkhangelskoye Estate Museum,musée J. Paul Getty,Glasgow Museums Resource Centre,musée des Beaux-Arts de Lyon,Musée d'Art de Dallas,Memorial Art Gallery,Bowes Museum,musée de l'Ermitage,château de Versailles,musée Von-der-Heydt,Nationalmuseum,Kunsthalle de Hambourg,Collection de peintures de l'État de Bavière,musée des Beaux-Arts de Bernay,Fogg Art Museum,musée national de Cracovie,musée des Arts décoratifs,musée des Beaux-Arts et d'Archéologie de Besançon,Wallace Collection,musée des Beaux-Arts de Houston,Clark Art Institute,musée d'Art du comté de Los Angeles,musée Réattu,Minneapolis Institute of Art,musées royaux des Beaux-Arts de Belgique,musée national des Beaux-Arts Buenos Aires,musée Czartoryski,musée d'art de Portland,musée des Beaux-Arts de Caen,Galerie nationale d'Irlande,Führermuseum,Philadelphia Museum of Art,musée Fabre,musée des Beaux-Arts de Strasbourg,Galerie nationale d'art de Lviv,musée des Beaux-Arts de Nancy,École nationale supérieure des beaux-arts,musée Städel,National Gallery of Art,Kunsthalle de Brême,musée Rodin"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -10351,7 +10445,7 @@
       },
       "decrit_par_source" : {
         "type" : "literal",
-        "value" : ",Petit Dictionnaire encyclopédique Brockhaus-Efron,Grande Encyclopédie soviétique,Dictionnaire encyclopédique Granat,The Art of The Countries and Peoples of The World. Tome 5,Dictionnaire encyclopédique Brockhaus et Efron"
+        "value" : ",Dictionnaire encyclopédique Granat,The Art of The Countries and Peoples of The World. Tome 5,Petit Dictionnaire encyclopédique Brockhaus-Efron,Grande Encyclopédie soviétique,Dictionnaire encyclopédique Brockhaus et Efron"
       },
       "image" : {
         "type" : "literal",
@@ -10401,7 +10495,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Automatistes,Regroupement québécois de la danse"
+        "value" : "Regroupement québécois de la danse,Automatistes,"
       },
       "participant_a" : {
         "type" : "literal",
@@ -10409,11 +10503,11 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : ",membre de l'Ordre du Canada,prix Paul-Émile-Borduas,compagnon de l'Ordre des arts et des lettres du Québec,officier de l'Ordre du Canada,chevalier ou chevalière de l'Ordre national du Québec,grand officier ou grande officière de l'Ordre national du Québec,officier de l'Ordre de Montréal"
+        "value" : ",prix Paul-Émile-Borduas,officier de l'Ordre du Canada,chevalier ou chevalière de l'Ordre national du Québec,grand officier ou grande officière de l'Ordre national du Québec,membre de l'Ordre du Canada,compagnon de l'Ordre des arts et des lettres du Québec,officier de l'Ordre de Montréal"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Banque d'art du Conseil des arts du Canada,,Loto-Québec,Galerie Leonard & Bina Ellen,musée d'art contemporain des Laurentides,Musée d'art de Joliette,musée de Lachine,Musée des beaux-arts de Sherbrooke,musée de Rimouski,Musée des beaux-arts de Montréal,Musée des beaux-arts de Mont-Saint-Hilaire,Musée des beaux-arts de la Nouvelle-Écosse,Musée des beaux-arts du Canada,Galerie de l'UQAM,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec,Galerie d'art de Vancouver,Musée d'art contemporain de Montréal,Agnes Etherington Art Centre,Musée des beaux-arts de l'Ontario"
+        "value" : ",Galerie Leonard & Bina Ellen,Loto-Québec,musée d'art contemporain des Laurentides,Musée d'art de Joliette,musée de Lachine,Musée des beaux-arts de Sherbrooke,musée de Rimouski,Agnes Etherington Art Centre,Banque d'art du Conseil des arts du Canada,Musée des beaux-arts de la Nouvelle-Écosse,Musée des beaux-arts de Mont-Saint-Hilaire,Galerie de l'UQAM,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée des beaux-arts de Montréal,Musée des beaux-arts du Canada,Galerie d'art de Vancouver,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec,Musée des beaux-arts de l'Ontario"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -10471,7 +10565,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : "danse urbaine,"
+        "value" : ",danse urbaine"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -10495,7 +10589,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Regroupement québécois de la danse,Union des artistes"
+        "value" : "Regroupement québécois de la danse,Union des artistes,"
       },
       "participant_a" : {
         "type" : "literal",
@@ -10765,7 +10859,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "droits d'auteurs ne pouvant plus être enfreints,"
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -10789,7 +10883,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : ",Musée national des beaux-arts du Québec,Wereldmuseum Rotterdam,musée de la photographie des Pays-Bas"
+        "value" : ",Wereldmuseum Rotterdam,musée de la photographie des Pays-Bas,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -10805,7 +10899,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -10883,7 +10977,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "musée J. Paul Getty,,Musée des beaux-arts du Canada,Musée McCord Stewart"
+        "value" : ",musée J. Paul Getty,Musée des beaux-arts du Canada,Musée McCord Stewart"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -10899,7 +10993,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -11059,7 +11153,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Académie royale des arts du Canada"
+        "value" : "Académie royale des arts du Canada,"
       },
       "participant_a" : {
         "type" : "literal",
@@ -11071,7 +11165,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Musée Michael C. Carlos,,Prince Edward Island Museum and Heritage Foundation,Musée des beaux-arts de la Nouvelle-Écosse,Centre des arts de la confédération,Musée des beaux-arts du Canada,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal,Museum of Modern Art,musée juif"
+        "value" : ",Prince Edward Island Museum and Heritage Foundation,Musée Michael C. Carlos,Centre des arts de la confédération,Musée des beaux-arts de la Nouvelle-Écosse,Museum of Modern Art,Musée des beaux-arts du Canada,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec,musée juif"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -11079,7 +11173,7 @@
       },
       "dossier_artiste_detenu_par" : {
         "type" : "literal",
-        "value" : ",Université du Québec à Montréal,Smithsonian American Art and Portrait Gallery Library,Musée national des beaux-arts du Québec"
+        "value" : ",Smithsonian American Art and Portrait Gallery Library,Université du Québec à Montréal,Musée national des beaux-arts du Québec"
       },
       "collaborateur_creation" : {
         "type" : "literal",
@@ -11133,7 +11227,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",illustration,graphisme,céramique,sculpture"
+        "value" : ",illustration,graphisme,sculpture,céramique"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -11215,7 +11309,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "dessinateur ou dessinatrice de bande dessinée,illustrateur ou illustratrice,créateur ou créatrice de bandes dessinées"
+        "value" : "créateur ou créatrice de bandes dessinées,illustrateur ou illustratrice,dessinateur ou dessinatrice de bande dessinée"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -11255,7 +11349,7 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : "prix du Gouverneur général : littérature jeunesse de langue française - illustration,,Prix des libraires du Québec - Bande dessinée jeunesse (Québec),Prix des libraires du Québec - Jeunesse (6-11 ans Québec)"
+        "value" : ",prix du Gouverneur général : littérature jeunesse de langue française - illustration,Prix des libraires du Québec - Bande dessinée jeunesse (Québec),Prix des libraires du Québec - Jeunesse (6-11 ans Québec)"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
@@ -11287,7 +11381,7 @@
       },
       "langue" : {
         "type" : "literal",
-        "value" : ",français,français canadien"
+        "value" : "français,,français canadien"
       },
       "decrit_par_source" : {
         "type" : "literal",
@@ -11317,7 +11411,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : "roman graphique,,bande dessinée"
+        "value" : ",roman graphique,bande dessinée"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -11349,7 +11443,7 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : ",Shuster Award for Outstanding Cartoonist,Fauve d'or : prix du meilleur album,prix Château de Cheverny de la bande dessinée historique"
+        "value" : "Shuster Award for Outstanding Cartoonist,,Fauve d'or : prix du meilleur album,prix Château de Cheverny de la bande dessinée historique"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
@@ -11463,7 +11557,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -11479,7 +11573,7 @@
       },
       "decrit_par_source" : {
         "type" : "literal",
-        "value" : "MU Archive,"
+        "value" : ",MU Archive"
       },
       "image" : {
         "type" : "literal",
@@ -11635,7 +11729,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "musée J. Paul Getty,Miriam and Ira D. Wallach Collection of Art, Prints and Photographs, Photography Collection,,Musée des beaux-arts du Canada"
+        "value" : "Miriam and Ira D. Wallach Collection of Art, Prints and Photographs, Photography Collection,,musée J. Paul Getty,Musée des beaux-arts du Canada"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -11717,7 +11811,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Regroupement québécois de la danse"
+        "value" : "Regroupement québécois de la danse,"
       },
       "participant_a" : {
         "type" : "literal",
@@ -11725,7 +11819,7 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : "officier ou officière de l'Ordre national du Québec,"
+        "value" : ",officier ou officière de l'Ordre national du Québec"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
@@ -11791,7 +11885,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "direction de films,production de films,scénario de film,,photographie d'art,film"
+        "value" : "scénario de film,,direction de films,production de films,photographie d'art,film"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -11945,7 +12039,7 @@
       },
       "langue" : {
         "type" : "literal",
-        "value" : "français,allemand,,anglais,portugais"
+        "value" : "français,,allemand,portugais,anglais"
       },
       "decrit_par_source" : {
         "type" : "literal",
@@ -12011,7 +12105,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "musée J. Paul Getty,McLaughlin Library,,Musée McCord Stewart,Musée de la civilisation,Musée national des beaux-arts du Québec"
+        "value" : ",McLaughlin Library,musée J. Paul Getty,Musée McCord Stewart,Musée de la civilisation,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -12027,7 +12121,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -12081,7 +12175,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "droits d'auteurs ne pouvant plus être enfreints,"
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -12121,7 +12215,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -12183,7 +12277,7 @@
       },
       "represente_par" : {
         "type" : "literal",
-        "value" : "Galerie Noel Guyomarc’h,,http://www.wikidata.org/entity/Q139901639"
+        "value" : ",Galerie Noel Guyomarc’h,http://www.wikidata.org/entity/Q139901639"
       },
       "membre_de" : {
         "type" : "literal",
@@ -12191,7 +12285,7 @@
       },
       "participant_a" : {
         "type" : "literal",
-        "value" : ",20/20/20"
+        "value" : "20/20/20,"
       },
       "distinction_recue" : {
         "type" : "literal",
@@ -12355,7 +12449,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",art public,photographie,sculpture"
+        "value" : ",art public,sculpture,photographie"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -12387,7 +12481,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Musée des beaux-arts de Montréal,"
+        "value" : ",Musée des beaux-arts de Montréal"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -12403,7 +12497,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -12437,7 +12531,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "illustrateur ou illustratrice,créateur ou créatrice de bandes dessinées,dessinateur ou dessinatrice humoristique"
+        "value" : "créateur ou créatrice de bandes dessinées,illustrateur ou illustratrice,dessinateur ou dessinatrice humoristique"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -12543,7 +12637,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "performance art,,art public,art contemporain,arts visuels,danse"
+        "value" : ",performance art,art contemporain,art public,danse,arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -12563,7 +12657,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Indigenous Performing Arts Alliance"
+        "value" : "Indigenous Performing Arts Alliance,"
       },
       "participant_a" : {
         "type" : "literal",
@@ -12853,11 +12947,11 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : ",prix du Gouverneur général en arts visuels et en arts médiatiques,prix Paul-Émile-Borduas"
+        "value" : "prix du Gouverneur général en arts visuels et en arts médiatiques,,prix Paul-Émile-Borduas"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Banque d'art du Conseil des arts du Canada,Loto-Québec,,Musée des beaux-arts du Canada,Musée de la civilisation,ZKM Centre d'Art et des Médias Karlsruhe,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal,Agnes Etherington Art Centre"
+        "value" : ",Loto-Québec,Agnes Etherington Art Centre,Banque d'art du Conseil des arts du Canada,ZKM Centre d'Art et des Médias Karlsruhe,Musée des beaux-arts du Canada,Musée de la civilisation,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -12865,7 +12959,7 @@
       },
       "dossier_artiste_detenu_par" : {
         "type" : "literal",
-        "value" : ",Université du Québec à Montréal,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : ",Université du Québec à Montréal,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "collaborateur_creation" : {
         "type" : "literal",
@@ -12967,7 +13061,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -12975,7 +13069,7 @@
       },
       "groupe_ethnique" : {
         "type" : "literal",
-        "value" : "Canadiens français,"
+        "value" : ",Canadiens français"
       },
       "langue" : {
         "type" : "literal",
@@ -13013,7 +13107,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "diffusion,création planifiée,"
+        "value" : ",diffusion,création planifiée"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -13033,7 +13127,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",La danse sur les routes du Québec,Regroupement québécois de la danse"
+        "value" : "Regroupement québécois de la danse,,La danse sur les routes du Québec"
       },
       "participant_a" : {
         "type" : "literal",
@@ -13291,7 +13385,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : ",cinéma,peinture"
+        "value" : ",peinture,cinéma"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -13323,11 +13417,11 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : ",prix littéraire des collégiens,prix Pierre-Ayot"
+        "value" : "prix littéraire des collégiens,,prix Pierre-Ayot"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : ",Loto-Québec,musée d'art contemporain de Baie-Saint-Paul,musée d'art contemporain des Laurentides,Musée d'art de Joliette,Musée des beaux-arts de Sherbrooke,musée de Rimouski,Musée des beaux-arts de Montréal,MA musée d'art,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée de la civilisation,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : ",Loto-Québec,musée d'art contemporain des Laurentides,Musée d'art de Joliette,Musée des beaux-arts de Sherbrooke,musée de Rimouski,MA musée d'art,musée d'art contemporain de Baie-Saint-Paul,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée des beaux-arts de Montréal,Musée de la civilisation,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -13335,7 +13429,7 @@
       },
       "dossier_artiste_detenu_par" : {
         "type" : "literal",
-        "value" : "Artexte,,Musée des beaux-arts de Montréal,bibliothèque et Archives Edward P. Taylor,Musée des beaux-arts du Canada,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal,Bibliothèque et Archives nationales du Québec"
+        "value" : ",Artexte,bibliothèque et Archives Edward P. Taylor,Musée des beaux-arts de Montréal,Musée des beaux-arts du Canada,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec,Bibliothèque et Archives nationales du Québec"
       },
       "collaborateur_creation" : {
         "type" : "literal",
@@ -13417,7 +13511,7 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : "prix Alvine-Bélisle,,E. B. White Read Aloud Award for Picture Books,Prix Janet Savage Blachford Prize for Children's and Young Adult Literature,Prix des libraires du Québec - Jeunesse (6-11 ans Québec),Prix littéraires des enseignants AQPF-ANEL: Album 5 à 8 ans (2014-2021)"
+        "value" : ",prix Alvine-Bélisle,E. B. White Read Aloud Award for Picture Books,Prix Janet Savage Blachford Prize for Children's and Young Adult Literature,Prix des libraires du Québec - Jeunesse (6-11 ans Québec),Prix littéraires des enseignants AQPF-ANEL: Album 5 à 8 ans (2014-2021)"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
@@ -13449,7 +13543,7 @@
       },
       "langue" : {
         "type" : "literal",
-        "value" : ",français"
+        "value" : "français,"
       },
       "decrit_par_source" : {
         "type" : "literal",
@@ -13479,11 +13573,11 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : "art numérique,,art en ligne"
+        "value" : ",art en ligne,art numérique"
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",recherche création,installation,cybermilitantisme,installation vidéo"
+        "value" : "recherche création,,installation,cybermilitantisme,installation vidéo"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -13671,7 +13765,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "diffusion,création planifiée,,danse contemporaine"
+        "value" : ",diffusion,création planifiée,danse contemporaine"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -13691,7 +13785,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Regroupement québécois de la danse,Union des artistes"
+        "value" : "Regroupement québécois de la danse,Union des artistes,"
       },
       "participant_a" : {
         "type" : "literal",
@@ -13859,7 +13953,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",art,arts médiatiques,fiction,histoire de la photographie,arts visuels,photographie"
+        "value" : ",art,fiction,histoire de la photographie,arts médiatiques,photographie,arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -14055,7 +14149,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "œuvre sous droits d'auteurs,"
+        "value" : ",œuvre sous droits d'auteurs"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -14095,7 +14189,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -14141,7 +14235,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",installation,photographie,sculpture,art vidéo"
+        "value" : ",installation,sculpture,photographie,art vidéo"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -14169,11 +14263,11 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : "prix artistique Sobey,,prix Reconnaissance UQAM"
+        "value" : ",prix artistique Sobey,prix Reconnaissance UQAM"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : ",musée d'Art contemporain du Val-de-Marne,Musée d'art de Joliette,Musée des beaux arts de Winnipeg,Musée des beaux-arts de Montréal,Musée des beaux-arts de la Nouvelle-Écosse,cinémathèque québécoise,fonds régional d'art contemporain,Musée des beaux-arts du Canada,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec,Neuer Berliner Kunstverein,Musée d'art contemporain de Montréal"
+        "value" : "Musée des beaux arts de Winnipeg,cinémathèque québécoise,fonds régional d'art contemporain,musée d'Art contemporain du Val-de-Marne,Musée d'art de Joliette,,Musée des beaux-arts de la Nouvelle-Écosse,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée des beaux-arts de Montréal,Musée des beaux-arts du Canada,Neuer Berliner Kunstverein,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -14181,7 +14275,7 @@
       },
       "dossier_artiste_detenu_par" : {
         "type" : "literal",
-        "value" : ",Université du Québec à Montréal,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : ",Université du Québec à Montréal,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "collaborateur_creation" : {
         "type" : "literal",
@@ -14231,7 +14325,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : "danse urbaine,,danse contemporaine"
+        "value" : ",danse urbaine,danse contemporaine"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -14255,7 +14349,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Regroupement québécois de la danse,Union des artistes"
+        "value" : "Regroupement québécois de la danse,Union des artistes,"
       },
       "participant_a" : {
         "type" : "literal",
@@ -14329,7 +14423,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",sculpture,installation,techniques mixtes,photographie"
+        "value" : ",installation,sculpture,techniques mixtes,photographie"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -14357,11 +14451,11 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : ",prix artistique Sobey,prix Paul-Émile-Borduas,prix Louis-Comtois,Ordre des arts et des lettres du Québec"
+        "value" : "prix Louis-Comtois,,prix artistique Sobey,prix Paul-Émile-Borduas,Ordre des arts et des lettres du Québec"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Banque d'art du Conseil des arts du Canada,,Smithsonian Institution,Loto-Québec,musée d'art contemporain des Laurentides,Gochman Family Collection,Musée des beaux-arts du Canada,National Museum of the American Indian,Musée de la civilisation,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : ",Loto-Québec,musée d'art contemporain des Laurentides,Banque d'art du Conseil des arts du Canada,Gochman Family Collection,Smithsonian Institution,Musée des beaux-arts du Canada,National Museum of the American Indian,Musée de la civilisation,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -14369,7 +14463,7 @@
       },
       "dossier_artiste_detenu_par" : {
         "type" : "literal",
-        "value" : ",Université du Québec à Montréal,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : ",Université du Québec à Montréal,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "collaborateur_creation" : {
         "type" : "literal",
@@ -14423,7 +14517,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",image de marque,marketing"
+        "value" : ",marketing,image de marque"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -14517,7 +14611,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",cinéma expérimental,animation sans caméra,pixilation,animation"
+        "value" : ",animation sans caméra,cinéma expérimental,pixilation,animation"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -14545,11 +14639,11 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : "prix Winsor-McCay,,compagnon de l'Ordre du Canada,prix Albert-Tessier,prix Molson,chevalier ou chevalière de l'Ordre national du Québec,Oscar du meilleur court métrage documentaire,Royal Designers for Industry honoraire"
+        "value" : ",prix Winsor-McCay,prix Albert-Tessier,chevalier ou chevalière de l'Ordre national du Québec,compagnon de l'Ordre du Canada,prix Molson,Oscar du meilleur court métrage documentaire,Royal Designers for Industry honoraire"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : ",Loto-Québec,The Carleton University Art Gallery,Musée d'art de Joliette,Musée des beaux-arts de Sherbrooke,cinémathèque québécoise,Musée des beaux-arts du Canada,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec,Museum of Modern Art,Musée des beaux-arts de l'Ontario"
+        "value" : "cinémathèque québécoise,The Carleton University Art Gallery,Loto-Québec,Musée d'art de Joliette,Musée des beaux-arts de Sherbrooke,,collection d’estampes de la Bibliothèque nationale de BAnQ,Museum of Modern Art,Musée des beaux-arts du Canada,Musée national des beaux-arts du Québec,Musée des beaux-arts de l'Ontario"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -14557,7 +14651,7 @@
       },
       "dossier_artiste_detenu_par" : {
         "type" : "literal",
-        "value" : ",Université du Québec à Montréal,Smithsonian American Art and Portrait Gallery Library,Musée national des beaux-arts du Québec"
+        "value" : ",Smithsonian American Art and Portrait Gallery Library,Université du Québec à Montréal,Musée national des beaux-arts du Québec"
       },
       "collaborateur_creation" : {
         "type" : "literal",
@@ -14701,7 +14795,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : "art abstrait,,art public,graffiti,art de rue"
+        "value" : ",art abstrait,art public,graffiti,art de rue"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -14753,7 +14847,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -14831,7 +14925,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Nationaal Museum van Wereldculturen,,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec"
+        "value" : ",Nationaal Museum van Wereldculturen,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -14847,7 +14941,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -14893,7 +14987,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",poterie,sculpture"
+        "value" : ",sculpture,poterie"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -14917,7 +15011,7 @@
       },
       "participant_a" : {
         "type" : "literal",
-        "value" : "tentoonstelling waar werk van sieraadontwerpers, glaskunstenaars en keramisten was te zien uit de collectie van Musée des beaux-arts de Montréal,"
+        "value" : ",tentoonstelling waar werk van sieraadontwerpers, glaskunstenaars en keramisten was te zien uit de collectie van Musée des beaux-arts de Montréal"
       },
       "distinction_recue" : {
         "type" : "literal",
@@ -14925,7 +15019,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : ",Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : ",Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -14941,7 +15035,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -15223,7 +15317,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -15235,7 +15329,7 @@
       },
       "langue" : {
         "type" : "literal",
-        "value" : "français canadien,"
+        "value" : ",français canadien"
       },
       "decrit_par_source" : {
         "type" : "literal",
@@ -15297,7 +15391,7 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : "prix Hugh-MacLennan,Prix des libraires du Québec,,Prix des libraires du Québec - Roman-nouvelles-récit (Québec)"
+        "value" : "Prix des libraires du Québec,,prix Hugh-MacLennan,Prix des libraires du Québec - Roman-nouvelles-récit (Québec)"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
@@ -15727,7 +15821,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "peintre muraliste,sculpteur ou sculptrice,artiste peintre"
+        "value" : "sculpteur ou sculptrice,peintre muraliste,artiste peintre"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -15735,7 +15829,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : ",art public,peinture,sculpture"
+        "value" : ",sculpture,art public,peinture"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -15821,7 +15915,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "illustrateur ou illustratrice,créateur ou créatrice de bandes dessinées"
+        "value" : "créateur ou créatrice de bandes dessinées,illustrateur ou illustratrice"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -15927,7 +16021,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",chorégraphie,spectacle vivant"
+        "value" : ",spectacle vivant,chorégraphie"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -15947,7 +16041,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Regroupement québécois de la danse"
+        "value" : "Regroupement québécois de la danse,"
       },
       "participant_a" : {
         "type" : "literal",
@@ -15959,7 +16053,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Smithsonian Institution,,Smithsonian American Art Museum"
+        "value" : ",Smithsonian Institution,Smithsonian American Art Museum"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -16241,7 +16335,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Nationaal Museum van Wereldculturen,,Musée McCord Stewart,Musée national des beaux-arts du Québec,Wereldmuseum Rotterdam,musée de la photographie des Pays-Bas,British Library"
+        "value" : ",Nationaal Museum van Wereldculturen,Musée McCord Stewart,Wereldmuseum Rotterdam,musée de la photographie des Pays-Bas,Musée national des beaux-arts du Québec,British Library"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -16257,7 +16351,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -16585,7 +16679,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "œuvre audiovisuelle,,film,arts visuels,photographie"
+        "value" : "œuvre audiovisuelle,,film,photographie,arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -16667,7 +16761,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "coloriste de bande dessinée,dessinateur ou dessinatrice de bande dessinée,illustrateur ou illustratrice,mangaka,créateur ou créatrice de bandes dessinées"
+        "value" : "créateur ou créatrice de bandes dessinées,coloriste de bande dessinée,illustrateur ou illustratrice,mangaka,dessinateur ou dessinatrice de bande dessinée"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -16679,7 +16773,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "manfra,,bande dessinée franco-belge,littérature de fantasy,illustration,bande dessinée,manga"
+        "value" : "manfra,,illustration,bande dessinée,littérature de fantasy,bande dessinée franco-belge,manga"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -16801,7 +16895,7 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : "Oscar du meilleur court métrage d'animation,"
+        "value" : ",Oscar du meilleur court métrage d'animation"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
@@ -16821,7 +16915,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -16867,7 +16961,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "recherche,,enseignement"
+        "value" : ",recherche,enseignement"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -16887,7 +16981,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Regroupement québécois de la danse"
+        "value" : "Regroupement québécois de la danse,"
       },
       "participant_a" : {
         "type" : "literal",
@@ -16957,11 +17051,11 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : ",danse jazz,danse urbaine,danse percussive,danse orientale,danse contemporaine"
+        "value" : ",danse urbaine,danse percussive,danse orientale,danse jazz,danse contemporaine"
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "diffusion,création planifiée,"
+        "value" : ",diffusion,création planifiée"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -16981,7 +17075,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",La danse sur les routes du Québec,Regroupement québécois de la danse"
+        "value" : "Regroupement québécois de la danse,,La danse sur les routes du Québec"
       },
       "participant_a" : {
         "type" : "literal",
@@ -17181,7 +17275,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "musée J. Paul Getty,Scottish National Portrait Gallery,,Miriam and Ira D. Wallach Collection of Art, Prints and Photographs, Photography Collection,Nationaal Museum van Wereldculturen,Smithsonian American Art Museum,Harry Ransom Center,Archives photographiques Notman,Musée des beaux-arts du Canada,Metropolitan Museum of Art,Musée de la civilisation,Musée national des beaux-arts du Québec,Wereldmuseum Rotterdam,musée de la photographie des Pays-Bas,Musée d'art contemporain de Montréal,Museum of Modern Art,bibliothèque nationale du pays de Galles"
+        "value" : "Scottish National Portrait Gallery,Miriam and Ira D. Wallach Collection of Art, Prints and Photographs, Photography Collection,,Harry Ransom Center,musée J. Paul Getty,Nationaal Museum van Wereldculturen,Archives photographiques Notman,Museum of Modern Art,Metropolitan Museum of Art,Musée des beaux-arts du Canada,Musée de la civilisation,Wereldmuseum Rotterdam,musée de la photographie des Pays-Bas,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec,Smithsonian American Art Museum,bibliothèque nationale du pays de Galles"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -17231,7 +17325,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "artiste conceptuel,artiste de performance,sculpteur ou sculptrice,artiste visuel ou artiste visuelle,artiste peintre,photographe"
+        "value" : "artiste conceptuel,sculpteur ou sculptrice,artiste de performance,artiste visuel ou artiste visuelle,photographe,artiste peintre"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -17239,7 +17333,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : ",avant-garde,Fluxus,electronica,Shibuya-Kei,musique expérimentale,new wave,musique de danse,rock alternatif,musique électronique,rock,art conceptuel,pop"
+        "value" : ",avant-garde,Fluxus,electronica,new wave,art conceptuel,rock alternatif,musique expérimentale,rock,musique de danse,musique électronique,Shibuya-Kei,pop"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -17271,11 +17365,11 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : "Women's Caucus for Art Lifetime Achievement Award,,Mojo Awards,Grammy Award de l'album de l'année,Great Immigrants Award,Distinguished Service to the Visual Arts Award,Grammy Award du meilleur film musical"
+        "value" : ",Mojo Awards,Grammy Award du meilleur film musical,Women's Caucus for Art Lifetime Achievement Award,Great Immigrants Award,Distinguished Service to the Visual Arts Award,Grammy Award de l'album de l'année"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : ",Österreichischer Skulpturenpark,musée d'Art moderne de San Francisco,collection Jorunn Veiteberg,Diane Venet collection,Clo Fleiss collection,Stedelijk Museum Amsterdam,MTA Arts & Design Permanent Art Collection,City of Pori art collection,Musée des beaux-arts du Canada,ZKM Centre d'Art et des Médias Karlsruhe,Musée Hirshhorn et jardin de sculptures,musée national du Victoria,musée de Groningue,Tate,musée national centre d'art Reina Sofía,Art Institute of Chicago,Museum of Modern Art,National Gallery of Art,Whitney Museum of American Art"
+        "value" : ",collection Jorunn Veiteberg,Diane Venet collection,Clo Fleiss collection,MTA Arts & Design Permanent Art Collection,Österreichischer Skulpturenpark,City of Pori art collection,musée d'Art moderne de San Francisco,Stedelijk Museum Amsterdam,Museum of Modern Art,ZKM Centre d'Art et des Médias Karlsruhe,Musée des beaux-arts du Canada,musée national du Victoria,Musée Hirshhorn et jardin de sculptures,musée national centre d'art Reina Sofía,musée de Groningue,Tate,Art Institute of Chicago,Whitney Museum of American Art,National Gallery of Art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -17299,113 +17393,19 @@
       },
       "groupe_ethnique" : {
         "type" : "literal",
-        "value" : ",Japonais,Nippo-Américains"
+        "value" : ",Nippo-Américains,Japonais"
       },
       "langue" : {
         "type" : "literal",
-        "value" : ",anglais,japonais"
+        "value" : ",japonais,anglais"
       },
       "decrit_par_source" : {
         "type" : "literal",
-        "value" : ",American Women Sculptors: a history of women working in three dimensions,Women film directors : an international bio-critical dictionary,The St. James women filmmakers encyclopedia,UbuWeb,hedendaagsesieraden.nl"
+        "value" : "American Women Sculptors: a history of women working in three dimensions,,Women film directors : an international bio-critical dictionary,The St. James women filmmakers encyclopedia,hedendaagsesieraden.nl,UbuWeb"
       },
       "image" : {
         "type" : "literal",
         "value" : ",http://commons.wikimedia.org/wiki/Special:FilePath/MX%20MM%20YOKO%20ONO%20VISITANTE%20DISTINGUIDA%20CDMX.jpg"
-      }
-    }, {
-      "artiste" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q124846279"
-      },
-      "nom" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Zema"
-      },
-      "occupations" : {
-        "type" : "literal",
-        "value" : "graffeur,tatoueur ou tatoueuse,artiste peintre"
-      },
-      "lieu_travail" : {
-        "type" : "literal",
-        "value" : "Montréal,Laval"
-      },
-      "genre_artistique" : {
-        "type" : "literal",
-        "value" : ",art public"
-      },
-      "domaine_activite" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "pseudonyme" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "statut_droits_auteur" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "site_officiel" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "represente_par" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "membre_de" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "participant_a" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "distinction_recue" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "collection_possedant_oeuvre" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "archives_conservees_par" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "dossier_artiste_detenu_par" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "collaborateur_creation" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "sexe_genre" : {
-        "type" : "literal",
-        "value" : "féminin,"
-      },
-      "date_naissance" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "groupe_ethnique" : {
-        "type" : "literal",
-        "value" : ",Québécois"
-      },
-      "langue" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "decrit_par_source" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "image" : {
-        "type" : "literal",
-        "value" : ""
       }
     }, {
       "artiste" : {
@@ -17419,7 +17419,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "dessinateur ou dessinatrice de bande dessinée,illustrateur ou illustratrice,créateur ou créatrice de bandes dessinées,artiste peintre"
+        "value" : "créateur ou créatrice de bandes dessinées,illustrateur ou illustratrice,dessinateur ou dessinatrice de bande dessinée,artiste peintre"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -17533,7 +17533,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "droits d'auteurs ne pouvant plus être enfreints,"
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -17573,7 +17573,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -17889,7 +17889,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "graveur ou graveuse d'estampes,illustrateur ou illustratrice,dessinateur ou dessinatrice,artiste peintre"
+        "value" : "illustrateur ou illustratrice,graveur ou graveuse d'estampes,dessinateur ou dessinatrice,artiste peintre"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -17933,7 +17933,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,musée Laurier,Musée Louis-Hémon,,musée Marguerite-Bourgeoys,Musée d'art de Joliette,musée de Charlevoix,musée des Ursulines de Trois-Rivières,Musée des beaux-arts de Sherbrooke,pulperie de Chicoutimi,MA musée d'art,château Ramezay,Musée des beaux-arts du Canada,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée de la civilisation,Musée national des beaux-arts du Québec,http://www.wikidata.org/entity/Q104764050"
+        "value" : "pulperie de Chicoutimi,Musée Louis-Hémon,Loto-Québec,musée Laurier,musée Marguerite-Bourgeoys,Musée d'art de Joliette,musée de Charlevoix,musée des Ursulines de Trois-Rivières,Musée des beaux-arts de Sherbrooke,,MA musée d'art,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée des beaux-arts du Canada,Musée de la civilisation,Musée national des beaux-arts du Québec,château Ramezay,http://www.wikidata.org/entity/Q104764050"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -18068,100 +18068,6 @@
     }, {
       "artiste" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7810414"
-      },
-      "nom" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Tivi Etok"
-      },
-      "occupations" : {
-        "type" : "literal",
-        "value" : "lithographe,graveur ou graveuse d'estampes"
-      },
-      "lieu_travail" : {
-        "type" : "literal",
-        "value" : "Nunavik,Québec"
-      },
-      "genre_artistique" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "domaine_activite" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "pseudonyme" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "statut_droits_auteur" : {
-        "type" : "literal",
-        "value" : ",œuvre sous droits d'auteurs"
-      },
-      "site_officiel" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "represente_par" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "membre_de" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "participant_a" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "distinction_recue" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "collection_possedant_oeuvre" : {
-        "type" : "literal",
-        "value" : "Institut culturel Avataq,Collection d'estampes de la bibliothèque publique de New York,Nationaal Museum van Wereldculturen,,Musée des beaux-arts du Canada,Musée de la civilisation,Musée national des beaux-arts du Québec,Anchorage Museum"
-      },
-      "archives_conservees_par" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "dossier_artiste_detenu_par" : {
-        "type" : "literal",
-        "value" : ",Musée d'art contemporain de Montréal"
-      },
-      "collaborateur_creation" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "sexe_genre" : {
-        "type" : "literal",
-        "value" : ",masculin"
-      },
-      "date_naissance" : {
-        "type" : "literal",
-        "value" : ",1928-10-03T00:00:00Z"
-      },
-      "groupe_ethnique" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "langue" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "decrit_par_source" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "image" : {
-        "type" : "literal",
-        "value" : ""
-      }
-    }, {
-      "artiste" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q96964998"
       },
       "nom" : {
@@ -18215,7 +18121,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,MA musée d'art,"
+        "value" : "Loto-Québec,,MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -18497,7 +18403,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Nationaal Museum van Wereldculturen,"
+        "value" : ",Nationaal Museum van Wereldculturen"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -18513,7 +18419,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -18591,7 +18497,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Nationaal Museum van Wereldculturen,"
+        "value" : ",Nationaal Museum van Wereldculturen"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -18607,7 +18513,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -18779,7 +18685,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Nationaal Museum van Wereldculturen,,Musée des beaux-arts du Canada,collection d’estampes de la Bibliothèque nationale de BAnQ"
+        "value" : ",Nationaal Museum van Wereldculturen,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée des beaux-arts du Canada"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -18795,7 +18701,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -18873,7 +18779,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "The Carleton University Art Gallery,Nationaal Museum van Wereldculturen,,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec"
+        "value" : "The Carleton University Art Gallery,,Nationaal Museum van Wereldculturen,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -18967,7 +18873,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "The Carleton University Art Gallery,Nationaal Museum van Wereldculturen,Musée des beaux arts de Winnipeg,,Metropolitan Museum of Art,collection d’estampes de la Bibliothèque nationale de BAnQ,Agnes Etherington Art Centre"
+        "value" : "Musée des beaux arts de Winnipeg,The Carleton University Art Gallery,Agnes Etherington Art Centre,,Nationaal Museum van Wereldculturen,collection d’estampes de la Bibliothèque nationale de BAnQ,Metropolitan Museum of Art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -19061,7 +18967,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,Nationaal Museum van Wereldculturen,Musée des beaux-arts de Montréal,,Musée des beaux-arts du Canada,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée de la civilisation"
+        "value" : "Loto-Québec,,Nationaal Museum van Wereldculturen,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée des beaux-arts de Montréal,Musée des beaux-arts du Canada,Musée de la civilisation"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -19155,7 +19061,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Nationaal Museum van Wereldculturen,"
+        "value" : ",Nationaal Museum van Wereldculturen"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -19171,7 +19077,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -19249,7 +19155,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Nationaal Museum van Wereldculturen,,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée de la civilisation,Musée national des beaux-arts du Québec"
+        "value" : ",Nationaal Museum van Wereldculturen,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée de la civilisation,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -19265,7 +19171,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -19494,7 +19400,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : ",marine,portrait"
+        "value" : ",portrait,marine"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -19718,7 +19624,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Musée d'Art de Dallas,Robert McLaughlin Gallery,Musée Louis-Hémon,The Carleton University Art Gallery,musée Marguerite-Bourgeoys,musée des Ursulines de Trois-Rivières,monastère des Ursulines de Québec,Musée des beaux-arts de Montréal,,Musée des beaux-arts du Canada,Musée McCord Stewart,Musée régional de Vaudreuil-Soulanges,Musée de la civilisation,Musée national des beaux-arts du Québec,Galerie d'art de Vancouver,Musée d'art contemporain de Montréal,Agnes Etherington Art Centre,Art Gallery of Hamilton,maison Saint-Gabriel,http://www.wikidata.org/entity/Q104764050,musée des cultures du monde,Société du patrimoine religieux du diocèse de St-Hyacinthe,Musée de sainte Anne,Musée des beaux-arts de l'Ontario"
+        "value" : "monastère des Ursulines de Québec,Musée Louis-Hémon,The Carleton University Art Gallery,musée Marguerite-Bourgeoys,musée des Ursulines de Trois-Rivières,,Robert McLaughlin Gallery,Agnes Etherington Art Centre,Art Gallery of Hamilton,Musée régional de Vaudreuil-Soulanges,Musée d'Art de Dallas,Musée des beaux-arts de Montréal,Musée des beaux-arts du Canada,Musée McCord Stewart,Galerie d'art de Vancouver,Musée de la civilisation,Musée d'art contemporain de Montréal,maison Saint-Gabriel,Musée national des beaux-arts du Québec,musée des cultures du monde,Société du patrimoine religieux du diocèse de St-Hyacinthe,Musée de sainte Anne,http://www.wikidata.org/entity/Q104764050,Musée des beaux-arts de l'Ontario"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -19812,7 +19718,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Banque d'art du Conseil des arts du Canada,,Coopérative Méduse,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : "Coopérative Méduse,Banque d'art du Conseil des arts du Canada,,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -19820,7 +19726,7 @@
       },
       "dossier_artiste_detenu_par" : {
         "type" : "literal",
-        "value" : ",Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : ",Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "collaborateur_creation" : {
         "type" : "literal",
@@ -19976,7 +19882,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "droits d'auteurs ne pouvant plus être enfreints,"
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -20016,7 +19922,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -20188,7 +20094,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "RiverBrink Art Museum,,Musée du Pôle culturel du Monastère des Ursulines,Vanderbilt University Fine Arts Gallery,Bibliothèque et Archives Canada,Smithsonian American Art Museum,château Ramezay,State Library of New South Wales,centre d'art britannique de Yale,Musée des beaux-arts du Canada,Musée McCord Stewart,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée de la civilisation,Musée national des beaux-arts du Québec,Bibliothèque nationale suisse,Agnes Etherington Art Centre,National Gallery of Art,Musée royal de l'Ontario"
+        "value" : "Agnes Etherington Art Centre,,RiverBrink Art Museum,Musée du Pôle culturel du Monastère des Ursulines,Vanderbilt University Fine Arts Gallery,State Library of New South Wales,centre d'art britannique de Yale,collection d’estampes de la Bibliothèque nationale de BAnQ,Bibliothèque et Archives Canada,Bibliothèque nationale suisse,Musée des beaux-arts du Canada,Musée McCord Stewart,Musée de la civilisation,Musée national des beaux-arts du Québec,Smithsonian American Art Museum,château Ramezay,Musée royal de l'Ontario,National Gallery of Art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -20352,7 +20258,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "droits d'auteurs ne pouvant plus être enfreints,"
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -20392,7 +20298,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -20426,7 +20332,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "illustrateur ou illustratrice,créateur ou créatrice de bandes dessinées"
+        "value" : "créateur ou créatrice de bandes dessinées,illustrateur ou illustratrice"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -20528,7 +20434,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : ",scène de genre,paysage"
+        "value" : ",paysage,scène de genre"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -20564,7 +20470,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Musée d'art de Joliette,,Bibliothèque et Archives Canada,Musée des beaux-arts du Canada,Musée McCord Stewart,Musée de la civilisation,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal,Art Gallery of Hamilton,Musée des beaux-arts de l'Ontario"
+        "value" : "Musée d'art de Joliette,,Art Gallery of Hamilton,Bibliothèque et Archives Canada,Musée des beaux-arts du Canada,Musée McCord Stewart,Musée de la civilisation,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec,Musée des beaux-arts de l'Ontario"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -20572,7 +20478,7 @@
       },
       "dossier_artiste_detenu_par" : {
         "type" : "literal",
-        "value" : ",Frick Art Reference Library,Université du Québec à Montréal,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : ",Frick Art Reference Library,Université du Québec à Montréal,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "collaborateur_creation" : {
         "type" : "literal",
@@ -20634,7 +20540,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "droits d'auteurs ne pouvant plus être enfreints,"
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -20674,7 +20580,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -20752,7 +20658,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "musée J. Paul Getty,Miriam and Ira D. Wallach Collection of Art, Prints and Photographs, Photography Collection,,Musée des beaux-arts du Canada,Musée de la civilisation,Musée national des beaux-arts du Québec,Victoria and Albert Museum"
+        "value" : "Miriam and Ira D. Wallach Collection of Art, Prints and Photographs, Photography Collection,,musée J. Paul Getty,Musée des beaux-arts du Canada,Victoria and Albert Museum,Musée de la civilisation,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -20846,7 +20752,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Banque d'art du Conseil des arts du Canada,Loto-Québec,Musée des beaux arts de Winnipeg,,Coopérative Méduse,Musée des beaux-arts du Canada,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec"
+        "value" : "Musée des beaux arts de Winnipeg,Coopérative Méduse,Loto-Québec,Banque d'art du Conseil des arts du Canada,,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée des beaux-arts du Canada,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -20928,7 +20834,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : "Pierre&Marie,"
+        "value" : ",Pierre&Marie"
       },
       "participant_a" : {
         "type" : "literal",
@@ -20956,7 +20862,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -21002,7 +20908,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : ",commissariat d'exposition,théorie de l'art,art conceptuel,arts visuels,peinture,http://www.wikidata.org/entity/Q16519397,sculpture"
+        "value" : ",commissariat d'exposition,art conceptuel,théorie de l'art,sculpture,peinture,arts visuels,http://www.wikidata.org/entity/Q16519397"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -21210,7 +21116,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : "Pierre&Marie,"
+        "value" : ",Pierre&Marie"
       },
       "participant_a" : {
         "type" : "literal",
@@ -21238,7 +21144,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -21316,7 +21222,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Smithsonian American Art Museum,Detroit Institute of Arts,,Georgia Museum of Art,Musée d'Art de Columbus,Metropolitan Museum of Art,musée d'Art du comté de Los Angeles,Pennsylvania Academy of the Fine Arts,musée national du Victoria,Phillips Collection,Art Institute of Chicago,Museum of Modern Art,musée d'Art John-et-Mable-Ringling,Brooklyn Museum,musée des Beaux-Arts de Boston,Whitney Museum of American Art,Cleveland Museum of Art"
+        "value" : ",Georgia Museum of Art,Musée d'Art de Columbus,Museum of Modern Art,Metropolitan Museum of Art,musée national du Victoria,musée d'Art du comté de Los Angeles,Pennsylvania Academy of the Fine Arts,Phillips Collection,musée d'Art John-et-Mable-Ringling,Brooklyn Museum,Smithsonian American Art Museum,Detroit Institute of Arts,Art Institute of Chicago,Whitney Museum of American Art,Cleveland Museum of Art,musée des Beaux-Arts de Boston"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -21324,7 +21230,7 @@
       },
       "dossier_artiste_detenu_par" : {
         "type" : "literal",
-        "value" : ",bibliothèque de la National Gallery of Art,Frick Art Reference Library,Smithsonian American Art and Portrait Gallery Library"
+        "value" : ",Frick Art Reference Library,bibliothèque de la National Gallery of Art,Smithsonian American Art and Portrait Gallery Library"
       },
       "collaborateur_creation" : {
         "type" : "literal",
@@ -21332,7 +21238,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -21386,7 +21292,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "œuvre sous droits d'auteurs,"
+        "value" : ",œuvre sous droits d'auteurs"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -21426,7 +21332,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -21586,7 +21492,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Regroupement québécois de la danse,Centre de ressources et transition pour danseurs,L'Artère, art de la danse et du mouvement"
+        "value" : "Regroupement québécois de la danse,,Centre de ressources et transition pour danseurs,L'Artère, art de la danse et du mouvement"
       },
       "participant_a" : {
         "type" : "literal",
@@ -21614,7 +21520,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : "sexe ou genre non divulgué,,féminin"
+        "value" : ",sexe ou genre non divulgué,féminin"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -21750,7 +21656,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : ",nature morte,peinture de portrait,paysage"
+        "value" : ",paysage,nature morte,peinture de portrait"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -21786,7 +21692,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "RiverBrink Art Museum,,Gilcrease Museum,Musée d'art de Joliette,Musée des beaux arts de Winnipeg,Musée des beaux-arts de Montréal,galerie d'art Beaverbrook,château Ramezay,Musée des beaux-arts du Canada,Musée McCord Stewart,Musée de la civilisation,Musée national des beaux-arts du Québec,Galerie d'art de Vancouver,Musée royal de l'Ontario,Musée des beaux-arts de l'Ontario"
+        "value" : "Musée des beaux arts de Winnipeg,galerie d'art Beaverbrook,,Musée d'art de Joliette,RiverBrink Art Museum,Gilcrease Museum,Musée des beaux-arts de Montréal,Musée des beaux-arts du Canada,Musée McCord Stewart,Galerie d'art de Vancouver,Musée de la civilisation,Musée national des beaux-arts du Québec,château Ramezay,Musée royal de l'Ontario,Musée des beaux-arts de l'Ontario"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -21848,7 +21754,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "céramique d'art,"
+        "value" : ",céramique d'art"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -21880,7 +21786,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : ",Canadian Clay and Glass Gallery,Coopérative Méduse,Musée national des beaux-arts du Québec,Art Gallery of Burlington,Bibliothèque et Archives nationales du Québec"
+        "value" : "Coopérative Méduse,Art Gallery of Burlington,Canadian Clay and Glass Gallery,,Musée national des beaux-arts du Québec,Bibliothèque et Archives nationales du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -21950,7 +21856,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "droits d'auteurs ne pouvant plus être enfreints,"
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -21990,7 +21896,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -22036,7 +21942,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "diffusion,création planifiée,,chorégraphie,danse,photographie"
+        "value" : ",diffusion,création planifiée,chorégraphie,photographie,danse"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -22056,7 +21962,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Regroupement québécois de la danse"
+        "value" : "Regroupement québécois de la danse,"
       },
       "participant_a" : {
         "type" : "literal",
@@ -22064,7 +21970,7 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : ",prix Denise-Pelletier,prix du Gouverneur général pour les arts du spectacle,compagnon de l'Ordre des arts et des lettres du Québec,officier de l'Ordre du Canada"
+        "value" : ",prix Denise-Pelletier,prix du Gouverneur général pour les arts du spectacle,officier de l'Ordre du Canada,compagnon de l'Ordre des arts et des lettres du Québec"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
@@ -22138,7 +22044,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "droits d'auteurs ne pouvant plus être enfreints,"
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -22178,7 +22084,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -22220,7 +22126,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : ",peinture religieuse,portrait"
+        "value" : "peinture religieuse,,portrait"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -22256,7 +22162,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Musée d'art de Joliette,Musée des beaux-arts de Montréal,,Musée des beaux-arts du Canada,Musée de la civilisation,musée Glenbow,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : ",Musée d'art de Joliette,Musée des beaux-arts de Montréal,Musée des beaux-arts du Canada,Musée de la civilisation,Musée d'art contemporain de Montréal,musée Glenbow,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -22293,6 +22199,100 @@
       "image" : {
         "type" : "literal",
         "value" : ",http://commons.wikimedia.org/wiki/Special:FilePath/Theophile%20Hamel%20autoportrait%20collection%20mnbaq.jpg"
+      }
+    }, {
+      "artiste" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7810414"
+      },
+      "nom" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Tivi Etok"
+      },
+      "occupations" : {
+        "type" : "literal",
+        "value" : "lithographe,graveur ou graveuse d'estampes"
+      },
+      "lieu_travail" : {
+        "type" : "literal",
+        "value" : "Québec,Nunavik"
+      },
+      "genre_artistique" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "domaine_activite" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "pseudonyme" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "statut_droits_auteur" : {
+        "type" : "literal",
+        "value" : ",œuvre sous droits d'auteurs"
+      },
+      "site_officiel" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "represente_par" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "membre_de" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "participant_a" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "distinction_recue" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "collection_possedant_oeuvre" : {
+        "type" : "literal",
+        "value" : "Collection d'estampes de la bibliothèque publique de New York,Institut culturel Avataq,Anchorage Museum,,Nationaal Museum van Wereldculturen,Musée des beaux-arts du Canada,Musée de la civilisation,Musée national des beaux-arts du Québec"
+      },
+      "archives_conservees_par" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "dossier_artiste_detenu_par" : {
+        "type" : "literal",
+        "value" : ",Musée d'art contemporain de Montréal"
+      },
+      "collaborateur_creation" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "sexe_genre" : {
+        "type" : "literal",
+        "value" : ",masculin"
+      },
+      "date_naissance" : {
+        "type" : "literal",
+        "value" : ",1928-10-03T00:00:00Z"
+      },
+      "groupe_ethnique" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "langue" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "decrit_par_source" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "image" : {
+        "type" : "literal",
+        "value" : ""
       }
     }, {
       "artiste" : {
@@ -22350,7 +22350,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Banque d'art du Conseil des arts du Canada,Musée d'art de Joliette,Musée des beaux-arts de Sherbrooke,,Musée des beaux-arts du Canada,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : "Musée d'art de Joliette,Musée des beaux-arts de Sherbrooke,,Banque d'art du Conseil des arts du Canada,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée des beaux-arts du Canada,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -22358,7 +22358,7 @@
       },
       "dossier_artiste_detenu_par" : {
         "type" : "literal",
-        "value" : ",Université du Québec à Montréal,Musée national des beaux-arts du Québec,Musée d'art contemporain de Montréal"
+        "value" : ",Université du Québec à Montréal,Musée d'art contemporain de Montréal,Musée national des beaux-arts du Québec"
       },
       "collaborateur_creation" : {
         "type" : "literal",
@@ -22444,7 +22444,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Musée du Pôle culturel du Monastère des Ursulines,,Musée national des beaux-arts du Québec"
+        "value" : ",Musée du Pôle culturel du Monastère des Ursulines,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -22460,7 +22460,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -22481,100 +22481,6 @@
       "image" : {
         "type" : "literal",
         "value" : ",http://commons.wikimedia.org/wiki/Special:FilePath/Emile%20Brunet.jpg"
-      }
-    }, {
-      "artiste" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55218624"
-      },
-      "nom" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Jules-Ernest Livernois"
-      },
-      "occupations" : {
-        "type" : "literal",
-        "value" : "illustrateur ou illustratrice,artiste peintre,photographe"
-      },
-      "lieu_travail" : {
-        "type" : "literal",
-        "value" : "Québec,Studio Livernois,Sainte-Anne-de-Beaupré"
-      },
-      "genre_artistique" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "domaine_activite" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "pseudonyme" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "statut_droits_auteur" : {
-        "type" : "literal",
-        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
-      },
-      "site_officiel" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "represente_par" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "membre_de" : {
-        "type" : "literal",
-        "value" : ",Livernois & Bienvenu"
-      },
-      "participant_a" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "distinction_recue" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "collection_possedant_oeuvre" : {
-        "type" : "literal",
-        "value" : "musée J. Paul Getty,bibliothèque du Congrès,University of British Columbia Library,Miriam and Ira D. Wallach Collection of Art, Prints and Photographs, Photography Collection,Musée d'art de Joliette,Musée des beaux-arts de Montréal,,Bibliothèque et Archives Canada,Centre canadien d'architecture,HathiTrust,Musée des beaux-arts du Canada,Musée de la civilisation,National Portrait Gallery,Musée national des beaux-arts du Québec,New York Public Library"
-      },
-      "archives_conservees_par" : {
-        "type" : "literal",
-        "value" : ",BAnQ Québec,Bibliothèque et Archives nationales du Québec"
-      },
-      "dossier_artiste_detenu_par" : {
-        "type" : "literal",
-        "value" : ",Université du Québec à Montréal,Musée national des beaux-arts du Québec"
-      },
-      "collaborateur_creation" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "sexe_genre" : {
-        "type" : "literal",
-        "value" : ",masculin"
-      },
-      "date_naissance" : {
-        "type" : "literal",
-        "value" : ",1851-08-19T00:00:00Z"
-      },
-      "groupe_ethnique" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "langue" : {
-        "type" : "literal",
-        "value" : ",français"
-      },
-      "decrit_par_source" : {
-        "type" : "literal",
-        "value" : ",Continuité"
-      },
-      "image" : {
-        "type" : "literal",
-        "value" : ",http://commons.wikimedia.org/wiki/Special:FilePath/Jules-Ernest%20Livernois.jpg"
       }
     }, {
       "artiste" : {
@@ -22648,7 +22554,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -22660,7 +22566,7 @@
       },
       "langue" : {
         "type" : "literal",
-        "value" : "français canadien,"
+        "value" : ",français canadien"
       },
       "decrit_par_source" : {
         "type" : "literal",
@@ -22776,7 +22682,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "peintre muraliste,sculpteur ou sculptrice,céramiste,artiste peintre"
+        "value" : "sculpteur ou sculptrice,peintre muraliste,céramiste,artiste peintre"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -22882,7 +22788,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "création planifiée,"
+        "value" : ",création planifiée"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -22902,7 +22808,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : ",Regroupement québécois de la danse,L'Artère, art de la danse et du mouvement"
+        "value" : "Regroupement québécois de la danse,,L'Artère, art de la danse et du mouvement"
       },
       "participant_a" : {
         "type" : "literal",
@@ -22968,7 +22874,7 @@
       },
       "lieu_travail" : {
         "type" : "literal",
-        "value" : "Rivière-du-Loup,Saint-Jean-sur-Richelieu,Montréal"
+        "value" : "Rivière-du-Loup,Montréal,Saint-Jean-sur-Richelieu"
       },
       "genre_artistique" : {
         "type" : "literal",
@@ -23058,7 +22964,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "artiste visuel ou artiste visuelle,artiste multimédia"
+        "value" : "artiste multimédia,artiste visuel ou artiste visuelle"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -23070,7 +22976,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "art numérique,,performance,arts visuels,théâtre"
+        "value" : ",performance,art numérique,arts visuels,théâtre"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -23118,7 +23024,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -23164,7 +23070,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "arts visuels,"
+        "value" : ",arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -23176,7 +23082,7 @@
       },
       "site_officiel" : {
         "type" : "literal",
-        "value" : ",http://www.dyell.ca"
+        "value" : "http://www.dyell.ca,"
       },
       "represente_par" : {
         "type" : "literal",
@@ -23760,7 +23666,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,"
+        "value" : ",MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -23776,7 +23682,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -24230,7 +24136,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,"
+        "value" : ",MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -24246,7 +24152,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -24324,7 +24230,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,"
+        "value" : ",MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -24340,7 +24246,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -24700,7 +24606,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,MA musée d'art,,collection d’estampes de la Bibliothèque nationale de BAnQ"
+        "value" : "Loto-Québec,,MA musée d'art,collection d’estampes de la Bibliothèque nationale de BAnQ"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -24762,7 +24668,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "arts visuels,"
+        "value" : ",arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -24774,7 +24680,7 @@
       },
       "site_officiel" : {
         "type" : "literal",
-        "value" : ",https://m.facebook.com/profile.php?id=890225867672093"
+        "value" : "https://m.facebook.com/profile.php?id=890225867672093,"
       },
       "represente_par" : {
         "type" : "literal",
@@ -25170,7 +25076,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,,collection d’estampes de la Bibliothèque nationale de BAnQ"
+        "value" : ",MA musée d'art,collection d’estampes de la Bibliothèque nationale de BAnQ"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -25186,7 +25092,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -25452,7 +25358,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,"
+        "value" : ",MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -25468,7 +25374,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -25922,7 +25828,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,"
+        "value" : ",MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -25938,7 +25844,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -26016,7 +25922,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,"
+        "value" : ",MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -26032,7 +25938,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -26204,7 +26110,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,MA musée d'art,"
+        "value" : "Loto-Québec,,MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -26298,7 +26204,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,MA musée d'art,"
+        "value" : "Loto-Québec,,MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -26768,7 +26674,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,MA musée d'art,"
+        "value" : "Loto-Québec,,MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -26984,7 +26890,7 @@
       },
       "langue" : {
         "type" : "literal",
-        "value" : "français,allemand,"
+        "value" : "français,,allemand"
       },
       "decrit_par_source" : {
         "type" : "literal",
@@ -27300,7 +27206,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "conte,"
+        "value" : ",conte"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -27360,7 +27266,7 @@
       },
       "langue" : {
         "type" : "literal",
-        "value" : ",français"
+        "value" : "français,"
       },
       "decrit_par_source" : {
         "type" : "literal",
@@ -27426,7 +27332,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,"
+        "value" : ",MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -27442,7 +27348,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -27990,7 +27896,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,MA musée d'art,,collection d’estampes de la Bibliothèque nationale de BAnQ"
+        "value" : "Loto-Québec,,MA musée d'art,collection d’estampes de la Bibliothèque nationale de BAnQ"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -28084,7 +27990,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,MA musée d'art,"
+        "value" : "Loto-Québec,,MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -28196,7 +28102,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,"
+        "value" : ",MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -28212,7 +28118,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -28278,7 +28184,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : "Conseil de la culture de l'Abitibi-Témiscamingue,"
+        "value" : ",Conseil de la culture de l'Abitibi-Témiscamingue"
       },
       "participant_a" : {
         "type" : "literal",
@@ -28306,7 +28212,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -28560,7 +28466,7 @@
       },
       "membre_de" : {
         "type" : "literal",
-        "value" : "Conseil de la culture de l'Abitibi-Témiscamingue,,L'Artouche"
+        "value" : ",Conseil de la culture de l'Abitibi-Témiscamingue,L'Artouche"
       },
       "participant_a" : {
         "type" : "literal",
@@ -28588,7 +28494,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -28760,7 +28666,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,,collection d’estampes de la Bibliothèque nationale de BAnQ"
+        "value" : ",MA musée d'art,collection d’estampes de la Bibliothèque nationale de BAnQ"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -28776,7 +28682,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -28822,7 +28728,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "artisanat d'art,"
+        "value" : ",artisanat d'art"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -28870,7 +28776,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -28891,100 +28797,6 @@
       "image" : {
         "type" : "literal",
         "value" : ""
-      }
-    }, {
-      "artiste" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3257121"
-      },
-      "nom" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Jules-Isaïe Livernois"
-      },
-      "occupations" : {
-        "type" : "literal",
-        "value" : "photographe"
-      },
-      "lieu_travail" : {
-        "type" : "literal",
-        "value" : "Saint-Roch,côte de la Fabrique,seigneurie de la Baie-Saint-Antoine,Richmond,Québec"
-      },
-      "genre_artistique" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "domaine_activite" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "pseudonyme" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "statut_droits_auteur" : {
-        "type" : "literal",
-        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
-      },
-      "site_officiel" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "represente_par" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "membre_de" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "participant_a" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "distinction_recue" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "collection_possedant_oeuvre" : {
-        "type" : "literal",
-        "value" : ",musée J. Paul Getty,Musée McCord Stewart,Musée de la civilisation,Musée national des beaux-arts du Québec"
-      },
-      "archives_conservees_par" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "dossier_artiste_detenu_par" : {
-        "type" : "literal",
-        "value" : ",Musée national des beaux-arts du Québec"
-      },
-      "collaborateur_creation" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "sexe_genre" : {
-        "type" : "literal",
-        "value" : ",masculin"
-      },
-      "date_naissance" : {
-        "type" : "literal",
-        "value" : ",1830-10-22T00:00:00Z"
-      },
-      "groupe_ethnique" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "langue" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "decrit_par_source" : {
-        "type" : "literal",
-        "value" : "Scientia Canadensis,,La Mémoire du Québec,Continuité"
-      },
-      "image" : {
-        "type" : "literal",
-        "value" : ",http://commons.wikimedia.org/wiki/Special:FilePath/Les%20photographes%20Livernois%2001.jpg"
       }
     }, {
       "artiste" : {
@@ -29136,7 +28948,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : ",Musée des beaux-arts du Canada Bibliothèque et archives,Musée de la civilisation,Musée national des beaux-arts du Québec,musée canadien de la photographie contemporaine"
+        "value" : ",Musée des beaux-arts du Canada Bibliothèque et archives,Musée de la civilisation,musée canadien de la photographie contemporaine,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -29177,6 +28989,100 @@
     }, {
       "artiste" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55218624"
+      },
+      "nom" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Jules-Ernest Livernois"
+      },
+      "occupations" : {
+        "type" : "literal",
+        "value" : "illustrateur ou illustratrice,artiste peintre,photographe"
+      },
+      "lieu_travail" : {
+        "type" : "literal",
+        "value" : "Sainte-Anne-de-Beaupré,Studio Livernois,Québec"
+      },
+      "genre_artistique" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "domaine_activite" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "pseudonyme" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "statut_droits_auteur" : {
+        "type" : "literal",
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
+      },
+      "site_officiel" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "represente_par" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "membre_de" : {
+        "type" : "literal",
+        "value" : ",Livernois & Bienvenu"
+      },
+      "participant_a" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "distinction_recue" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "collection_possedant_oeuvre" : {
+        "type" : "literal",
+        "value" : "Centre canadien d'architecture,HathiTrust,Miriam and Ira D. Wallach Collection of Art, Prints and Photographs, Photography Collection,Musée d'art de Joliette,,University of British Columbia Library,bibliothèque du Congrès,musée J. Paul Getty,Bibliothèque et Archives Canada,Musée des beaux-arts de Montréal,Musée des beaux-arts du Canada,New York Public Library,Musée de la civilisation,Musée national des beaux-arts du Québec,National Portrait Gallery"
+      },
+      "archives_conservees_par" : {
+        "type" : "literal",
+        "value" : ",BAnQ Québec,Bibliothèque et Archives nationales du Québec"
+      },
+      "dossier_artiste_detenu_par" : {
+        "type" : "literal",
+        "value" : ",Université du Québec à Montréal,Musée national des beaux-arts du Québec"
+      },
+      "collaborateur_creation" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "sexe_genre" : {
+        "type" : "literal",
+        "value" : ",masculin"
+      },
+      "date_naissance" : {
+        "type" : "literal",
+        "value" : ",1851-08-19T00:00:00Z"
+      },
+      "groupe_ethnique" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "langue" : {
+        "type" : "literal",
+        "value" : ",français"
+      },
+      "decrit_par_source" : {
+        "type" : "literal",
+        "value" : ",Continuité"
+      },
+      "image" : {
+        "type" : "literal",
+        "value" : ",http://commons.wikimedia.org/wiki/Special:FilePath/Jules-Ernest%20Livernois.jpg"
+      }
+    }, {
+      "artiste" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q124840240"
       },
       "nom" : {
@@ -29194,7 +29100,7 @@
       },
       "genre_artistique" : {
         "type" : "literal",
-        "value" : ",art figuratif,art public"
+        "value" : ",art public,art figuratif"
       },
       "domaine_activite" : {
         "type" : "literal",
@@ -29562,7 +29468,7 @@
       },
       "occupations" : {
         "type" : "literal",
-        "value" : "lithographe,orfèvre graveur ou graveuse,sculpteur ou sculptrice,artiste visuel ou artiste visuelle,artiste peintre"
+        "value" : "orfèvre graveur ou graveuse,lithographe,sculpteur ou sculptrice,artiste visuel ou artiste visuelle,artiste peintre"
       },
       "lieu_travail" : {
         "type" : "literal",
@@ -29606,7 +29512,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,MA musée d'art,,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec"
+        "value" : "Loto-Québec,,MA musée d'art,collection d’estampes de la Bibliothèque nationale de BAnQ,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -29700,7 +29606,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "MA musée d'art,"
+        "value" : ",MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -29716,7 +29622,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -29786,7 +29692,7 @@
       },
       "participant_a" : {
         "type" : "literal",
-        "value" : ",Espace habité"
+        "value" : "Espace habité,"
       },
       "distinction_recue" : {
         "type" : "literal",
@@ -29806,7 +29712,7 @@
       },
       "collaborateur_creation" : {
         "type" : "literal",
-        "value" : "Marc Boutin,"
+        "value" : ",Marc Boutin"
       },
       "sexe_genre" : {
         "type" : "literal",
@@ -29888,7 +29794,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,MA musée d'art,"
+        "value" : "Loto-Québec,,MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -30117,100 +30023,6 @@
     }, {
       "artiste" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19662310"
-      },
-      "nom" : {
-        "xml:lang" : "fr",
-        "type" : "literal",
-        "value" : "Elizabeth Frances Hale"
-      },
-      "occupations" : {
-        "type" : "literal",
-        "value" : "aquarelliste"
-      },
-      "lieu_travail" : {
-        "type" : "literal",
-        "value" : "Sherbrooke,seigneurie de Sainte-Anne-de-la-Pérade,Québec"
-      },
-      "genre_artistique" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "domaine_activite" : {
-        "type" : "literal",
-        "value" : "aquarelle,"
-      },
-      "pseudonyme" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "statut_droits_auteur" : {
-        "type" : "literal",
-        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
-      },
-      "site_officiel" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "represente_par" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "membre_de" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "participant_a" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "distinction_recue" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "collection_possedant_oeuvre" : {
-        "type" : "literal",
-        "value" : ",Bibliothèque et Archives Canada,bibliothèque et Archives Edward P. Taylor,Musée des beaux-arts du Canada,Musée national des beaux-arts du Québec"
-      },
-      "archives_conservees_par" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "dossier_artiste_detenu_par" : {
-        "type" : "literal",
-        "value" : ",Musée national des beaux-arts du Québec"
-      },
-      "collaborateur_creation" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "sexe_genre" : {
-        "type" : "literal",
-        "value" : ",féminin"
-      },
-      "date_naissance" : {
-        "type" : "literal",
-        "value" : ",1774-02-19T00:00:00Z"
-      },
-      "groupe_ethnique" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "langue" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "decrit_par_source" : {
-        "type" : "literal",
-        "value" : ""
-      },
-      "image" : {
-        "type" : "literal",
-        "value" : ",http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Frances%20Hale%20%28cropped%29.jpg"
-      }
-    }, {
-      "artiste" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q61090340"
       },
       "nom" : {
@@ -30264,7 +30076,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : ",Bibliothèque et Archives Canada,Royal Collection,Musée des beaux-arts du Canada,Musée McCord Stewart,BAnQ Québec,Early Canadiana Online,Musée de la civilisation,Internet Archive,Musée national des beaux-arts du Québec"
+        "value" : ",Early Canadiana Online,BAnQ Québec,Internet Archive,Bibliothèque et Archives Canada,Musée des beaux-arts du Canada,Musée McCord Stewart,Musée de la civilisation,Royal Collection,Musée national des beaux-arts du Québec"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -30280,7 +30092,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -30288,7 +30100,7 @@
       },
       "groupe_ethnique" : {
         "type" : "literal",
-        "value" : "Scotch-Irish Canadians,"
+        "value" : ",Scotch-Irish Canadians"
       },
       "langue" : {
         "type" : "literal",
@@ -30374,7 +30186,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",masculin"
+        "value" : "masculin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -30382,7 +30194,7 @@
       },
       "groupe_ethnique" : {
         "type" : "literal",
-        "value" : "Algonquins,"
+        "value" : ",Algonquins"
       },
       "langue" : {
         "type" : "literal",
@@ -30428,7 +30240,7 @@
       },
       "statut_droits_auteur" : {
         "type" : "literal",
-        "value" : "œuvre sous droits d'auteurs,"
+        "value" : ",œuvre sous droits d'auteurs"
       },
       "site_officiel" : {
         "type" : "literal",
@@ -30468,7 +30280,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -30514,7 +30326,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "arts visuels,"
+        "value" : ",arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -30526,7 +30338,7 @@
       },
       "site_officiel" : {
         "type" : "literal",
-        "value" : ",http://www.reneecarrier.ca"
+        "value" : "http://www.reneecarrier.ca,"
       },
       "represente_par" : {
         "type" : "literal",
@@ -30702,7 +30514,7 @@
       },
       "domaine_activite" : {
         "type" : "literal",
-        "value" : "art numérique,,arts visuels"
+        "value" : ",art numérique,arts visuels"
       },
       "pseudonyme" : {
         "type" : "literal",
@@ -30750,7 +30562,7 @@
       },
       "sexe_genre" : {
         "type" : "literal",
-        "value" : ",féminin"
+        "value" : "féminin,"
       },
       "date_naissance" : {
         "type" : "literal",
@@ -31298,7 +31110,7 @@
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
-        "value" : "Loto-Québec,MA musée d'art,"
+        "value" : "Loto-Québec,,MA musée d'art"
       },
       "archives_conservees_par" : {
         "type" : "literal",
@@ -33456,7 +33268,7 @@
       },
       "distinction_recue" : {
         "type" : "literal",
-        "value" : "prix Alvine-Bélisle,prix du Gouverneur général : littérature jeunesse de langue française - texte,"
+        "value" : ",prix Alvine-Bélisle,prix du Gouverneur général : littérature jeunesse de langue française - texte"
       },
       "collection_possedant_oeuvre" : {
         "type" : "literal",
@@ -33488,7 +33300,7 @@
       },
       "langue" : {
         "type" : "literal",
-        "value" : ",français"
+        "value" : "français,"
       },
       "decrit_par_source" : {
         "type" : "literal",
@@ -33873,6 +33685,194 @@
       "image" : {
         "type" : "literal",
         "value" : ""
+      }
+    }, {
+      "artiste" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3257121"
+      },
+      "nom" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Jules-Isaïe Livernois"
+      },
+      "occupations" : {
+        "type" : "literal",
+        "value" : "photographe"
+      },
+      "lieu_travail" : {
+        "type" : "literal",
+        "value" : "côte de la Fabrique,seigneurie de la Baie-Saint-Antoine,Saint-Roch,Québec,Richmond"
+      },
+      "genre_artistique" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "domaine_activite" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "pseudonyme" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "statut_droits_auteur" : {
+        "type" : "literal",
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
+      },
+      "site_officiel" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "represente_par" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "membre_de" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "participant_a" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "distinction_recue" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "collection_possedant_oeuvre" : {
+        "type" : "literal",
+        "value" : ",musée J. Paul Getty,Musée McCord Stewart,Musée de la civilisation,Musée national des beaux-arts du Québec"
+      },
+      "archives_conservees_par" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "dossier_artiste_detenu_par" : {
+        "type" : "literal",
+        "value" : ",Musée national des beaux-arts du Québec"
+      },
+      "collaborateur_creation" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "sexe_genre" : {
+        "type" : "literal",
+        "value" : ",masculin"
+      },
+      "date_naissance" : {
+        "type" : "literal",
+        "value" : ",1830-10-22T00:00:00Z"
+      },
+      "groupe_ethnique" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "langue" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "decrit_par_source" : {
+        "type" : "literal",
+        "value" : "La Mémoire du Québec,,Scientia Canadensis,Continuité"
+      },
+      "image" : {
+        "type" : "literal",
+        "value" : ",http://commons.wikimedia.org/wiki/Special:FilePath/Les%20photographes%20Livernois%2001.jpg"
+      }
+    }, {
+      "artiste" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19662310"
+      },
+      "nom" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Elizabeth Frances Hale"
+      },
+      "occupations" : {
+        "type" : "literal",
+        "value" : "aquarelliste"
+      },
+      "lieu_travail" : {
+        "type" : "literal",
+        "value" : "seigneurie de Sainte-Anne-de-la-Pérade,Québec,Sherbrooke"
+      },
+      "genre_artistique" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "domaine_activite" : {
+        "type" : "literal",
+        "value" : ",aquarelle"
+      },
+      "pseudonyme" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "statut_droits_auteur" : {
+        "type" : "literal",
+        "value" : ",droits d'auteurs ne pouvant plus être enfreints"
+      },
+      "site_officiel" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "represente_par" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "membre_de" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "participant_a" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "distinction_recue" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "collection_possedant_oeuvre" : {
+        "type" : "literal",
+        "value" : ",bibliothèque et Archives Edward P. Taylor,Bibliothèque et Archives Canada,Musée des beaux-arts du Canada,Musée national des beaux-arts du Québec"
+      },
+      "archives_conservees_par" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "dossier_artiste_detenu_par" : {
+        "type" : "literal",
+        "value" : ",Musée national des beaux-arts du Québec"
+      },
+      "collaborateur_creation" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "sexe_genre" : {
+        "type" : "literal",
+        "value" : "féminin,"
+      },
+      "date_naissance" : {
+        "type" : "literal",
+        "value" : ",1774-02-19T00:00:00Z"
+      },
+      "groupe_ethnique" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "langue" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "decrit_par_source" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "image" : {
+        "type" : "literal",
+        "value" : ",http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Frances%20Hale%20%28cropped%29.jpg"
       }
     } ]
   }
