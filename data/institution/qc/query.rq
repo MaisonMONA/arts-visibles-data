@@ -4,38 +4,92 @@ PREFIX wd: <http://www.wikidata.org/entity/>
 
 SELECT DISTINCT
   ?institution
-  ?label
-  ?forme_juridique
-  ?lieu
-  ?coord
+  ?nom
+  ?coordonnees
+  (GROUP_CONCAT(DISTINCT ?classeLabel; separator=",") AS ?classe)
+  (GROUP_CONCAT(DISTINCT ?administrative_territorial_entityLabel; separator=",") AS ?localisation_administrative)
+
+  (GROUP_CONCAT(DISTINCT IF(?prop = wdt:P571, ?valueLabel, ""); separator=",") AS ?fondation)
+  (GROUP_CONCAT(DISTINCT IF(?prop = wdt:P1454, ?valueLabel, ""); separator=",") AS ?forme_juridique)
+  (GROUP_CONCAT(DISTINCT IF(?prop = wdt:P463, ?valueLabel, ""); separator=",") AS ?membre_de)
+  (GROUP_CONCAT(DISTINCT IF(?prop = wdt:P1344, ?valueLabel, ""); separator=",") AS ?participant_a)
+  (GROUP_CONCAT(DISTINCT IF(?prop = wdt:P166, ?valueLabel, ""); separator=",") AS ?prix)
+  (GROUP_CONCAT(DISTINCT IF(?prop = wdt:P101, ?valueLabel, ""); separator=",") AS ?domaine_activite)
+  (GROUP_CONCAT(DISTINCT IF(?prop = wdt:P2650, ?valueLabel, ""); separator=",") AS ?domaine_interet)
+  (GROUP_CONCAT(DISTINCT IF(?prop = wdt:P159, ?valueLabel, ""); separator=",") AS ?siege)
+  (GROUP_CONCAT(DISTINCT IF(?prop = wdt:P276, ?valueLabel, ""); separator=",") AS ?lieu)
+  (GROUP_CONCAT(DISTINCT IF(?prop = wdt:P856, ?valueLabel, ""); separator=",") AS ?site_officiel)
+  (GROUP_CONCAT(DISTINCT IF(?prop = wdt:P18, ?valueLabel, ""); separator=",") AS ?image)
+  (GROUP_CONCAT(DISTINCT IF(?prop = wdt:P154, ?valueLabel, ""); separator=",") AS ?logo)
 
 WHERE {
 
-  # wd:Q2668072 à traiter séparément
-  VALUES ?classe_institution { wd:Q15206795 wd:Q16020664 wd:Q4034417 wd:Q16038801 wd:Q1007870 wd:Q33506 wd:Q207694 wd:Q17431399 wd:Q2087181 wd:Q1798450 wd:Q1156831 wd:Q829080 wd:Q6815100 wd:Q713223 wd:Q7075 wd:Q166118 wd:Q2072285 wd:Q1792630 wd:Q3280353 wd:Q2085381 wd:Q1329623 wd:Q7315155 }
+VALUES ?type {
+  wd:Q207694
+  wd:Q20897549
+  wd:Q15206795
+  wd:Q4034417
+  wd:Q16020664
+  wd:Q1007870
+  wd:Q16038801
+  wd:Q33506
+  wd:Q713223
+  wd:Q2072285
+  wd:Q1792630
+  wd:Q3280353
+  wd:Q1329623
+  wd:Q6815100
+}
 
-  ?institution wdt:P31 ?classe_institution .
+  ?institution wdt:P31 ?type ;
+    wdt:P131 ?administrative_territorial_entity .
 
-  ?institution wdt:P131 ?l .
-  # lieu situé au Québec, récursif incluant lien direct (0 occurence)
-  ?l wdt:P131* wd:Q176 .
+  # situé au Québec,
+  # récursif incluant lien direct (0 occurence)
+  ?administrative_territorial_entity wdt:P131* wd:Q176 .
   hint:Prior hint:gearing "forward".
 
+  # coordonnées géographiques
+  # n de ligne pour une institution = n de coord
   OPTIONAL {
-    ?institution wdt:P625 ?coord .
+    ?institution wdt:P625 ?coordonnees
   }
 
   OPTIONAL {
-    ?institution wdt:P1454 ?forme .
-    ?forme rdfs:label ?forme_juridique .
-    FILTER( LANG(?forme_juridique)="fr" )
+
+    VALUES ?prop {
+      wdt:P571	#	date de fondation ou de création 
+      wdt:P1454	#	forme juridique 
+      wdt:P463	#	membre de 
+      wdt:P1344	#	participant à 
+      wdt:P166	#	prix ou distinction 
+      wdt:P101	#	domaine d'activité 
+      wdt:P2650	#	domaine d'intérêt 
+      wdt:P159	#	siège 
+      wdt:P131	#	localisation administrative 
+      wdt:P276	#	lieu 
+      wdt:P856	#	site officiel 
+      wdt:P18   #	image 
+      wdt:P154	#	image du logotype 
+    }
+    ?institution ?prop ?value .
+
+    OPTIONAL {
+      ?value rdfs:label ?labelFr .
+      FILTER(LANG(?labelFr) = "fr")
+    }
+    OPTIONAL {
+      ?value rdfs:label ?labelEn .
+     FILTER(LANG(?labelEn) = "en")
+    }
+    BIND(COALESCE(?labelFr, ?labelEn, STR(?value)) AS ?valueLabel)
   }
-
-  # optimisation
-  ?institution rdfs:label ?label .
-  FILTER( LANG(?label)="fr" )
-
-  ?l rdfs:label ?lieu .
-  FILTER( LANG(?lieu)="fr" )
-
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "fr,en".
+    ?institution rdfs:label ?nom .
+    ?type rdfs:label ?classeLabel .
+    ?administrative_territorial_entity rdfs:label ?administrative_territorial_entityLabel .
+  }
 }
+GROUP BY ?institution ?nom ?coordonnees
+ORDER BY ?localisation_administrative ?nom
