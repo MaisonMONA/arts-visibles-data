@@ -1,0 +1,3716 @@
+{
+  "head" : {
+    "vars" : [ "sous_classe", "sous_classeLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104093051"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q104093051"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q113590231"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q113590231"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114398813"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q114398813"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114418978"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q114418978"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11612880"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q11612880"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124830196"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q124830196"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124830203"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q124830203"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132229545"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q132229545"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133279031"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q133279031"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133503726"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q133503726"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134539344"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q134539344"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136484872"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q136484872"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q139286253"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q139286253"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q139847199"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q139847199"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q140393679"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q140393679"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q140881133"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q140881133"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141455310"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q141455310"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141455479"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q141455479"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1438075"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q1438075"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1634637"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q1634637"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58482422"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q58482422"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97662751"
+      },
+      "sous_classeLabel" : {
+        "type" : "literal",
+        "value" : "Q97662751"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123234677"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ainu museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17153811"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amsterdam museum buses"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61461367"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Audubon center"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q856090"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bible museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131850130"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Branch"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115684298"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charlotte Museum Te Whare Takatāpui-Wāhine o Aotearoa"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123294382"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christmas museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123180891"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Church museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112231820"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dali museums"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2355780"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fotomuseum Hilversum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11665453"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fudoki no oka"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136400108"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fullerton Train Museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1934476"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gallo-Roman museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1590906"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haus des Waldes"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q109130947"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hispanic and Latino American museums"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17052206"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Japanese museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127275538"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lavatoio di Sornico"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q140521487"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lower Silesian Regional Railways"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6704640"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luoyang Museum of Ancient Tombs"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10575168"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Madrids museer"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q109324954"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexican American museums"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120147155"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Museo Q"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q126894802"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Museum for Applied Arts (institution)"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q121302278"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Naturum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134722184"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Parish Museum Collection of Sant Mateu"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q121914203"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pöstlingbergbahn Museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3926588"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quadreria"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q125822641"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sami museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7433679"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Science fiction libraries and museums"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131850128"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Site"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60607006"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Skansen city quarters"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136486256"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sun Yat-sen memorial museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2106028"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tourist information point"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q94701721"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuscan museum of regional importance"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110907415"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vliegend Museum Seppe"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136759901"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "West Yakut Scientific Center"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28555351"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "adventure mine"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110594714"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "alcoholic drinks museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131006985"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "anti-religious museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54986168"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "archipelago museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4801148"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "artillery museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q128803101"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "automotive museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52987303"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bank museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26944983"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bell museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132734330"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "biological museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118160864"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bunker museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11425913"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "buried cultural property center"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q109356490"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cannabis museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27827383"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "carriage museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123125353"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cartography museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29380643"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cast collection"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85751130"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cemetery museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q87057799"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cemetery of Lierna"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q80096168"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "circus museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26945139"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "commercial museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5183474"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "creationist museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q139713778"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cultural property center"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28753949"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "data museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123584934"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "dental museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q140235820"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "department-store art museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q854275"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "district museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26944985"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "economy museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56412838"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ecotourism visitor center"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110130526"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "encyclopedic museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5404309"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ethnic theme park"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17563638"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ethnic village"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106678683"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "exhibition mine"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20827313"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "experience museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q67638959"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "fishery museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108861021"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "folk art museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110594741"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "food and drink museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106775899"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "forest experience center"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q90808178"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "furniture museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26945175"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "geographical museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15809682"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "glacial erratics garden or park"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5603559"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "green museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5639512"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "hair museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5642704"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "hall of memory"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111079628"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "heritage farm"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46825148"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "historical and ethnographic museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q67639546"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "historical society museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114650550"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "hospital museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52987298"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "hotel and restaurant museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q65117353"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "human rights museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137714990"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ice hockey museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26945151"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "international museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12357399"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "jazz museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20811758"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lighthouse museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115154345"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "local authority museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10520688"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "local heritage institution in Sweden"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52987295"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "manor museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110582532"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mathematics museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131745961"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "media museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58483009"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "meteorological museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2066674"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mill museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25476410"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mosaics museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1954802"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "museum bus"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60491487"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "museum concept"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1014837"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "museum of fortifications"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97193061"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "museum with regional responsibility"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q64030895"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "museumed church"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3844310"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "national gallery"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11990908"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "national park centre"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17151507"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "neighbourhood museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52987307"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "newspaper museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52987309"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "numismatic museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52987300"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "nursery museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26959029"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pathological museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26959023"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pharmaceutical museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114023739"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "photographic art gallery"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1465881"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pioneer museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110534846"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "printing museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107537774"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "private art museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131560554"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "puppetry museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11649671"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "railway park"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7355157"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "rocket garden"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26958695"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "safety museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17991606"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "salt museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2244602"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "schloss country house museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104127212"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "selfie museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107524840"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "single-artist museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q140224580"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "stained glass museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7694122"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "teddy bear museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52987314"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "telecommunications museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11197854"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "torture museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11898323"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tractor museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107313856"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "typhlological museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111889841"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "university art museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1449266"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "virtual herbarium"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11549301"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "waterworks museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26945002"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "women's museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10416961"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "working life museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10501308"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "writers' museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26944966"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "youth museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138605497"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Erkend Museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123374605"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Grotte des Punisseurs"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q121076356"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Istituto museale ad autonomia speciale"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1163087"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Le réseau des bâtiments ruraux en Hongrie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q738131"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Locomotion n° 1"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1251808"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Monorail système Lartigue"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107652331"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Musée de la RAF, Police, République tchèque"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10413035"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Musée de la responsabilité"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130582790"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Musée de société"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28495673"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Musées répartis sur plusieurs sites"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3445465"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Routes et ponts historiques de Finlande"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3618768"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "antiquarium"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q726929"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "archives cinématographiques"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112132522"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "bâtiment civil historique muséal"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1146002"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "cabinet de curiosités"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18411786"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "centre d'accueil des visiteurs"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q78458396"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "centre d'accueil des visiteurs du National Park Service"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1549731"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "centre d'interprétation"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48759814"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "centre d'interprétation de l'architecture et du patrimoine"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2945276"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "centre de culture scientifique, technique et industrielle"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5739135"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "centre patrimonial"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16761700"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "centre pour la nature"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3499307"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "centre scientifique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q420962"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chemin de fer touristique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1352795"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "cinémathèque"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5277223"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "dime museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1475403"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "galerie d'art"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7094057"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "galerie d'art en ligne"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3768550"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "galerie de moulage en plâtre"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28837381"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "gare-musée"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q957433"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "glyptothèque"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1759852"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "jardin de sculptures"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29968296"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "maison d'artiste"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24906026"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "maison d'écrivain"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136421027"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "maison de la BD"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27908105"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "maison de la littérature"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2087181"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "maison-musée"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5755620"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "maison-musée"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11982370"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "maison-musée d'un artiste"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1506469"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "mine musée"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131538088"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "minka-en"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54934129"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée afro-américain"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19890860"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée agricole"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111128526"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée albanais de la dictature communiste"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3329412"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée archéologique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q136760282"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée archéologique en France"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q636819"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée archéologique en plein-air"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4828724"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée aéronautique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10624527"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée biographique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26959050"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée botanique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120754208"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée chrétien"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28134320"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée communautaire"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q105725005"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée commémoratif"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17438516"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée consacré aux instruments de musique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3867745"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée consacré à une entreprise"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26958703"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'anatomie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5473425"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'anthropologie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26945165"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'architecture"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q207694"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'art"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3196771"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'art"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61891263"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'art asiatique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108860927"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'art contemporain"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97662266"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'art moderne"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3868199"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'art sacré"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q62098611"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'arts décoratifs"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25047682"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'arts et de traditions populaires"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26958712"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'astronomie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17105874"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'histoire culturelle"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3329663"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'histoire de la médecine"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110582464"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'histoire des sciences"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1595639"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'histoire locale"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1970365"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'histoire naturelle"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124830213"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée d'un organisme public"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11341528"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de bande dessinée"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110594734"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de boisson"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132718497"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de calligraphie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134546165"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de chars de parade de matsuri"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q667018"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de cire"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28737012"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de culture"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q126194536"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de l'apiculture"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1575307"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de l'artisanat"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26959070"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de l'astronautique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q787934"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de l'automobile"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q119351997"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de l'horlogerie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1662089"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de l'industrie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1093436"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de l'informatique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1538669"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de l'éducation"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q64581368"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de l'énergie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50114313"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de l'érotisme"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191610"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de l'érotisme"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4306024"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la Shoah"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133305501"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la bicyclette"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q122308218"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la bière"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25964553"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la céramique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26945172"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la danse"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26944989"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la foresterie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26958661"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la marine"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q819426"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la mine"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17455058"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la musique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7157526"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la paix"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7209480"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la police"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1850552"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la poupée"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110498831"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la publicité"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2176201"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la radio"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85893376"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la tapisserie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034610"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la tauromachie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2358158"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la vie populaire"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3330083"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de la vigne et du vin"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12347386"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de l’espéranto"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4294133"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de minéralogie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26944969"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de photographie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123124989"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de saké"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q126195053"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de sculptures"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q66310866"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de village"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26959059"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée de zoologie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11606865"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée des albums illustrés"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218735"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée des douanes"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q842478"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée des enfants"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10333872"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée des langues"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q125566279"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée des miniatures"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q125523028"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée des soldats de plomb et des miniatures historiques"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2398990"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée des technologies"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1614140"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée des tramways"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2516357"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée des transports"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106686551"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée des échecs"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q122973294"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée des égouts"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q94701740"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée didactique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1231888"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée diocésain"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123124127"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée disparu"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18233199"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du Land"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115208277"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du café"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14928320"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du chocolat"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16665656"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du compagnonnage"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131746848"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du conte"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1200701"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du design"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1415133"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du film"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137730859"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du football"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2310465"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du jouet"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131745996"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du livre"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111805064"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du maintien de l'ordre"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124830411"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du ministère italien de la Culture"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26944999"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du papier"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17000324"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du sport"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25183395"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du textile"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123537029"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du thé"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17000320"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du théâtre"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16143815"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée du tsunami"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11786880"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée dédié aux pompiers"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5436782"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée dédié à la mode"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q756102"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée en plein air"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63161001"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée entomologique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12104174"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée ethnographique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2650083"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée fermier"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18704634"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée ferroviaire"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5465500"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée gastronomique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26958726"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée géologique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16735822"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée historique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31087820"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée hospitalier"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q139795857"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée in situ"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115154402"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée indépendant"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120753951"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée islamique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1307560"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée juif"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q539615"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée lapidaire"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1865249"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée littéraire"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60731643"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée local"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1863818"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée maritime"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q135641693"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée maçonnique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2772772"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée militaire"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034565"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée mobile"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2327632"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée municipal"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17431399"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée national"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28496624"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée national"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3867560"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée national italien"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q65611482"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée paléontologique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21550879"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée philatélique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2106220"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée postal"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q614316"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée privé"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4409567"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée préfectoral"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111986502"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée public"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61710650"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée queer"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q92755865"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée religieux"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7308408"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée régimentaire"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11895075"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée régional"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26944924"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée régional"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10571947"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée régional"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q588140"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée scientifique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26944928"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée scolaire"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q58632302"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée spécialisé"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118987801"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée spécialisé"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q124944396"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée sur l'esclavage"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1747681"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée sur un artiste"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q866133"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée universitaire"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141017810"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée universitaire de médecine"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1225034"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée virtuel"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6659501"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée vivant"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36169996"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée volcanologique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3330834"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée égyptologique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4306040"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée-appartement"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4306036"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musée-réserve"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q962734"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "musées des migrations"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q575727"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "navire musée"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112132548"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "objet du musée d'archéologie"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112132573"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "objet du musée d'archéologie industrielle"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112132542"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "palais muséal"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3363945"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "parc archéologique"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112132527"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "parc historique muséal"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133269026"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "pavillon du trésor"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q135926044"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "photothèque"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q740437"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "pinacothèque"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1602776"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "port-musée"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10500763"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "prison musée"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30892678"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "propriété muséale"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3924322"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "protomothèque"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q672603"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "studiolo italien"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q87267402"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "trailside museum"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1798450"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "écomusée"
+      }
+    }, {
+      "sous_classe" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3578786"
+      },
+      "sous_classeLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "économusée"
+      }
+    } ]
+  }
+}
