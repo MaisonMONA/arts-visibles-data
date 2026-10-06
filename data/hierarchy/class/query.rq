@@ -12,7 +12,7 @@ WHERE {
   # À ajuster
   #################################################
   VALUES ?super_classe {
-    wd:Q36649 # ajuster ici le qid de la superclasse
+    wd:Q33506 # ajuster ici le qid de la superclasse
   }
 
   ?sous_classe wdt:P279+ ?super_classe .
