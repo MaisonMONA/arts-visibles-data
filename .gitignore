@@ -9,3 +9,6 @@ query.sh
 
 #*.csv
 #*.json
+
+pyvenv
+*.~lock.*
