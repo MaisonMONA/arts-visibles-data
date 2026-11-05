@@ -87,6 +87,7 @@ def assign_generation(birthdate:str) -> str:
 
 for artiste in data_artistes:
     generation = None # réinitialisation à chaque itération
+    decennie_naissance = None
     # d'abord, s'il y a plusieurs dates, on arbitre en ne prenant que la première
     # les dates en double sont des intervals pour les incertitudes
     birthdate = artiste.get("date_naissance", [])
@@ -97,16 +98,20 @@ for artiste in data_artistes:
 
     if len(birthdate) == 0:
         generation = "non renseigné"
+        decennie_naissance = "non renseigné"
     else:
         birthdate = birthdate[0]
         generation = assign_generation(birthdate)
+        decennie_naissance = (int(birthdate.split("-")[0]) // 10) * 10
 
     artiste['generation'] = [generation]
+    artiste['decennie_naissance'] = [decennie_naissance]
 
 
-print("- [x] Ajouter une propriété 'generation' à chaque artiste")
+print("- [x] Ajouter les propriétés 'generation' et 'decennie_naissance' à chaque artiste")
 print("\tINFO:", Counter(entry['generation'][0] for entry in data_artistes).most_common(10))
-
+print("\tINFO:", Counter(entry['decennie_naissance'][0] for entry in data_artistes).most_common(10))
+ 
 
 ## Ajout d'une propriété "genre" pour les artistes
 for n, artiste in enumerate(data_artistes):
